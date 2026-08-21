@@ -27,6 +27,10 @@ jobs:
       - name: Run script
         run: python scraper.py
 
+      # 新增這一步：執行資料轉換腳本
+      - name: Convert JSON to Excel
+        run: python json_to_excel.py
+
       - name: Commit and push if data changed
         run: |
           git config --local user.name "github-actions[bot]"
