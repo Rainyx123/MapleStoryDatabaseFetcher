@@ -17,9 +17,13 @@ def fetch_maple_data():
     
     try:
         response = requests.get(url, params=params, headers=headers, timeout=15)
+        
+        # 先印出 HTTP 狀態碼，不管是不是 200
+        print(f"HTTP Status Code: {response.status_code}")
+        print(f"Response Body: {response.text[:300]}") # 印出前 300 個字元
+        
         response.raise_for_status()
         
-        # 嘗試解析 JSON
         data = response.json()
         
         output = {
@@ -33,11 +37,7 @@ def fetch_maple_data():
         print("資料成功抓取並存檔")
         
     except requests.exceptions.RequestException as e:
-        print(f"請求失敗 (HTTP Error): {e}")
-        exit(1)
-    except json.JSONDecodeError:
-        # 關鍵防呆：當伺服器回傳非 JSON 時，印出原始內容讓我們看見
-        print(f"JSON 解析失敗！伺服器實際回傳的內容為:\n{response.text}")
+        print(f"請求失敗: {e}")
         exit(1)
 
 if __name__ == "__main__":
