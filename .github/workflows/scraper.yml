@@ -35,5 +35,6 @@ jobs:
         run: |
           git config --local user.name "github-actions[bot]"
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git add character_data.json
-          git diff --quiet && git diff --cached --quiet || (git commit -m "Auto-update data: $(date +'%Y-%m-%d')" && git push)
+          # 這裡必須同時加入 json 與 excel 檔！
+          git add character_data.json character_data_formatted.xlsx
+          git diff --quiet && git diff --cached --quiet || (git commit -m "Auto-update data and Excel: $(date +'%Y-%m-%d')" && git push)
