@@ -1,5 +1,5 @@
 {
-    "fetch_time": "2026-08-28 07:43:50",
+    "fetch_time": "2026-08-29 04:40:58",
     "events": [
         {
             "type": "character_start",
@@ -26,7 +26,7 @@
                 "access_flag": "true",
                 "liberation_quest_clear": "0"
             },
-            "timestamp": "2026-08-28T15:43:48"
+            "timestamp": "2026-08-29T12:40:56"
         },
         {
             "type": "block",
@@ -14705,7 +14705,7 @@
                 "android_preset_2": null,
                 "android_preset_3": null
             },
-            "timestamp": "2026-08-27T13:35:45"
+            "timestamp": "2026-08-28T15:43:50"
         },
         {
             "type": "block",
@@ -15099,7 +15099,7 @@
                     "skill_icon": "https://open.api.nexon.com/static/maplestorytw/skill/icon/KEKCLFODIB"
                 }
             },
-            "timestamp": "2026-08-27T13:35:45"
+            "timestamp": "2026-08-28T15:43:50"
         },
         {
             "type": "character_done",
