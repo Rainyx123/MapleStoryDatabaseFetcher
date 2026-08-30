@@ -1,5 +1,5 @@
 {
-    "fetch_time": "2026-08-29 04:40:58",
+    "fetch_time": "2026-08-30 02:14:06",
     "events": [
         {
             "type": "character_start",
@@ -18,15 +18,15 @@
                 "character_class": "阿戴爾",
                 "character_class_level": "6",
                 "character_level": 262,
-                "character_exp": 627374007311,
-                "character_exp_rate": "35.510",
+                "character_exp": 627713453384,
+                "character_exp_rate": "35.530",
                 "character_guild_name": "Rainy",
                 "character_image": "https://open.api.nexon.com/static/maplestorytw/character/look/GOOKFPNPPDDJCHJGMPEPBIPALMFDFJMGGCPGLBGBPNBFEBJJNNOPOOFHGBOEMBCKHOHOCFECJPCDNPDGNLMNFCLLJOHEGDHLKGBNFCEBIMOJMNONOHHMFHJKAEOOCJEJNECKPKCDLLECBJMFCCHPBKHOELGHNKCMGINLLPHEAFLHAJJBFDECMHAIDDPJDNDMLCJMADMHDCNKJDBKCDAMDGPMLGELCKACPKLMIDELDNPCKMKMNLLDJNKHJANKDACOOCBGAHJHCABHANIFGJGCEAAFKFEJONKGDFHIBGJIMBLOPNCBFOCHNPNHLDIKJBDBEMODOLILJGLJPFLOPJJFDMPFEIHHKNHJMFDCBEKNKJHMNLHBMPHLLCBGMOLIHINFFMFPCPFCJCCGNIJBBCKHEMDFBODGPMFEADNLLLHGFHAGAKFIMBKBHILBONLANHILBPKOEHHCOBNEHOHJFNECIEAEGILBENKGBKKKNCFMJKDBHNDAOJHENPPCNNOHGDEPOCOFIBAINKPLHICLDKBEMOIINKHMGLIJMEABALJCFHIEMPFHMNGIKAHJJIDHPCMOFDMHOPJCGMFHKPJGBBHGPELBCJHKKBFCCNIPGLDPCIFFKEJMPKMKJCFNPLPGAEFNFDOBJCHEOIACCFJLHHLOCJIICIDMGNOOOIAEIJEDOGDFLNFNEAMEKIMIFKKIKJDOBFEEFILKPMFAKCMJHBCGBIILAGHPEFFJIJJLAJKJNBBJIEDNCFHAIFOCMJFJCMDPGEPGFIOFKFMJMEBCOOALNMLHLGAGPGCBJLDGGJPEMMFLJHOPIFGLOICJPLCJKDGFMDLBFHEJHNILAIKJEDHNFLGIIAHFJPIEMDKJCODIOPEJAEELHLHENPLKGCDONOMOEOHFPFOKEBOKGFFKLDCJOMGDFALDLJFHGDEIIFAABLONLKEKAGNBBHFMIMGMPLIMKDHEGDNMACECOCNCDNNOPAFPAFPDMGLGJDDPALNBHJGMLKDLPCOPMLPCHEGGLGHP",
                 "character_date_create": "2024-05-18T00:00+08:00",
                 "access_flag": "true",
                 "liberation_quest_clear": "0"
             },
-            "timestamp": "2026-08-29T12:40:56"
+            "timestamp": "2026-08-30T10:14:04"
         },
         {
             "type": "block",
@@ -14705,7 +14705,7 @@
                 "android_preset_2": null,
                 "android_preset_3": null
             },
-            "timestamp": "2026-08-28T15:43:50"
+            "timestamp": "2026-08-29T12:40:58"
         },
         {
             "type": "block",
@@ -15099,7 +15099,7 @@
                     "skill_icon": "https://open.api.nexon.com/static/maplestorytw/skill/icon/KEKCLFODIB"
                 }
             },
-            "timestamp": "2026-08-28T15:43:50"
+            "timestamp": "2026-08-29T12:40:58"
         },
         {
             "type": "character_done",
