@@ -1,5 +1,5 @@
 {
-    "fetch_time": "2026-08-31 02:09:24",
+    "fetch_time": "2026-09-01 02:29:46",
     "events": [
         {
             "type": "character_start",
@@ -26,7 +26,7 @@
                 "access_flag": "true",
                 "liberation_quest_clear": "0"
             },
-            "timestamp": "2026-08-31T10:09:22"
+            "timestamp": "2026-09-01T06:31:36"
         },
         {
             "type": "block",
@@ -38,19 +38,19 @@
                 "final_stat": [
                     {
                         "stat_name": "最低屬性攻擊力",
-                        "stat_value": "8801375"
+                        "stat_value": "11132337"
                     },
                     {
                         "stat_name": "最高屬性攻擊力",
-                        "stat_value": "9779303"
+                        "stat_value": "12369262"
                     },
                     {
                         "stat_name": "傷害",
-                        "stat_value": "108.00"
+                        "stat_value": "138.00"
                     },
                     {
                         "stat_name": "BOSS怪物傷害",
-                        "stat_value": "435.50"
+                        "stat_value": "437.00"
                     },
                     {
                         "stat_name": "最終傷害",
@@ -58,15 +58,15 @@
                     },
                     {
                         "stat_name": "無視防禦率",
-                        "stat_value": "95.92"
+                        "stat_value": "96.02"
                     },
                     {
                         "stat_name": "爆擊機率",
-                        "stat_value": "91"
+                        "stat_value": "109"
                     },
                     {
                         "stat_name": "爆擊傷害",
-                        "stat_value": "83.00"
+                        "stat_value": "118.00"
                     },
                     {
                         "stat_name": "狀態異常耐性",
@@ -78,7 +78,7 @@
                     },
                     {
                         "stat_name": "防禦力",
-                        "stat_value": "44069"
+                        "stat_value": "45341"
                     },
                     {
                         "stat_name": "移動速度",
@@ -102,19 +102,19 @@
                     },
                     {
                         "stat_name": "STR",
-                        "stat_value": "23536"
+                        "stat_value": "24492"
                     },
                     {
                         "stat_name": "DEX",
-                        "stat_value": "2400"
+                        "stat_value": "2811"
                     },
                     {
                         "stat_name": "INT",
-                        "stat_value": "1952"
+                        "stat_value": "1465"
                     },
                     {
                         "stat_name": "LUK",
-                        "stat_value": "1903"
+                        "stat_value": "1687"
                     },
                     {
                         "stat_name": "HP",
@@ -122,7 +122,7 @@
                     },
                     {
                         "stat_name": "MP",
-                        "stat_value": "25077"
+                        "stat_value": "24528"
                     },
                     {
                         "stat_name": "AP配點STR",
@@ -158,7 +158,7 @@
                     },
                     {
                         "stat_name": "Buff持續時間",
-                        "stat_value": "86"
+                        "stat_value": "90"
                     },
                     {
                         "stat_name": "攻擊速度",
@@ -194,19 +194,19 @@
                     },
                     {
                         "stat_name": "獲得額外經驗值",
-                        "stat_value": "37.50"
+                        "stat_value": "47.50"
                     },
                     {
                         "stat_name": "攻擊力",
-                        "stat_value": "2239"
+                        "stat_value": "2371"
                     },
                     {
                         "stat_name": "魔法攻擊力",
-                        "stat_value": "704"
+                        "stat_value": "743"
                     },
                     {
                         "stat_name": "戰鬥力",
-                        "stat_value": "16420080"
+                        "stat_value": "17791460"
                     },
                     {
                         "stat_name": "召喚獸持續時間增加",
@@ -215,7 +215,7 @@
                 ],
                 "remain_ap": 0
             },
-            "timestamp": "2026-08-25T08:36:46"
+            "timestamp": "2026-09-01T06:31:42"
         },
         {
             "type": "block",
@@ -346,7 +346,7 @@
                     }
                 ]
             },
-            "timestamp": "2026-08-25T08:36:46"
+            "timestamp": "2026-09-01T06:31:43"
         },
         {
             "type": "block",
@@ -367,7 +367,7 @@
                     }
                 ]
             },
-            "timestamp": "2026-08-25T08:36:46"
+            "timestamp": "2026-09-01T06:31:45"
         },
         {
             "type": "block",
@@ -382,7 +382,7 @@
                 "handicraft_level": 10,
                 "charm_level": 34
             },
-            "timestamp": "2026-08-25T08:36:47"
+            "timestamp": "2026-09-01T06:31:47"
         },
         {
             "type": "block",
@@ -408,7 +408,7 @@
                         "ability_value": "攻擊陷入狀態異常的對象時，傷害增加5%"
                     }
                 ],
-                "remain_fame": 535830,
+                "remain_fame": 547530,
                 "preset_no": 2,
                 "ability_preset_1": {
                     "ability_preset_grade": "傳說",
@@ -471,7 +471,7 @@
                     ]
                 }
             },
-            "timestamp": "2026-08-25T08:36:47"
+            "timestamp": "2026-09-01T06:31:49"
         },
         {
             "type": "block",
@@ -566,7 +566,7 @@
                         {
                             "skill_name": "艾拉諾斯I",
                             "skill_description": "[等級上限 : 4]\\r\\n艾拉諾斯跳躍並發射衝擊波攻擊周圍敵人。\\n\\n艾拉諾斯無法在空中召喚，且攻擊處於反射狀態的敵人時不會受到傷害。\\n\\n套用影分身、替身術、壓制砲擊、沉月、雙重力量、暗影僕從、引雷、高貴血統、虛擬投影時，將不套用攻擊次數增加效果，改為套用相同數值的最終傷害增加效果。\\n\\n召喚艾拉諾斯70秒。\\n艾拉諾斯跳躍：對最多10名敵人造成500%傷害，攻擊6次\\n冷卻時間60秒\\n艾拉諾斯成長時攻擊範圍與傷害增加。\\n不受冷卻時間重置效果與Buff持續時間增加效果影響。",
-                            "skill_level": 3,
+                            "skill_level": 4,
                             "skill_effect": null,
                             "skill_icon": "https://open.api.nexon.com/static/maplestorytw/skill/icon/KFHCLHKBKA",
                             "skill_effect_next": null
@@ -588,6 +588,14 @@
                             "skill_effect_next": null
                         },
                         {
+                            "skill_name": "艾拉諾斯IV",
+                            "skill_description": "[等級上限 : 4]\\r\\n艾拉諾斯猛烈咆哮，攻擊周圍敵人。\\n\\n艾拉諾斯無法在空中召喚，且攻擊處於反射狀態的敵人時不會受到傷害。\\n\\n套用影分身、替身術、壓制砲擊、沉月、雙重力量、暗影僕從、引雷、高貴血統、虛擬投影時，將不套用攻擊次數增加效果，改為套用相同數值的最終傷害增加效果。\\n\\n召喚艾拉諾斯70秒。\\n艾拉諾斯咆哮：對最多10名敵人造成650%傷害，攻擊6次\\n冷卻時間60秒\\n艾拉諾斯成長時攻擊範圍與傷害增加。\\n不受冷卻時間重置效果與Buff持續時間增加效果影響。",
+                            "skill_level": 4,
+                            "skill_effect": null,
+                            "skill_icon": "https://open.api.nexon.com/static/maplestorytw/skill/icon/KFHCLHKBKD",
+                            "skill_effect_next": null
+                        },
+                        {
                             "skill_name": "幻影魔法",
                             "skill_description": "[等級上限 : 1]\\r\\n由記憶與回憶的幻影交織而成的神祕魔法。",
                             "skill_level": 1,
@@ -596,18 +604,18 @@
                             "skill_effect_next": null
                         },
                         {
-                            "skill_name": "利爪的艾拉諾斯II",
-                            "skill_description": "[最高等級：1]\\n每當消滅等級範圍怪物時可累積計量表，\\n當計量表全滿時，即可發動<利爪的艾拉諾斯II>。\\n\\n每日<利爪的艾拉諾斯II>發動次數達到20次時\\n結束。\\n\\n活動期間結束後將無法使用。\\n\\n - 變更開關\\n右擊新手技能欄<利爪的艾拉諾斯II>技能\\n - 變更自動/手動\\n右擊UI的<利爪的艾拉諾斯II>技能\\n",
+                            "skill_name": "咆哮的艾拉諾斯",
+                            "skill_description": "[最高等級：1]\\n每當消滅等級範圍怪物時可累積計量表，\\n當計量表全滿時，即可發動<咆哮的艾拉諾斯>。\\n\\n每日<咆哮的艾拉諾斯>發動次數達到20次時\\n結束。\\n\\n活動期間結束後將無法使用。\\n\\n - 變更開關\\n右擊新手技能欄<咆哮的艾拉諾斯>技能\\n - 變更自動/手動\\n右擊UI的<咆哮的艾拉諾斯>技能\\n",
                             "skill_level": 1,
-                            "skill_effect": "\\n\\n<利爪的艾拉諾斯II>最多對15名敵人以3000%傷害攻擊1次的\\n爆炸發動6次的技能發動6次",
-                            "skill_icon": "https://open.api.nexon.com/static/maplestorytw/skill/icon/KFHCLHKBEB",
+                            "skill_effect": "\\n\\n<咆哮的艾拉諾斯II>最多對15名敵人以3000%傷害攻擊1次的\\n爆炸發動6次的技能發動6次",
+                            "skill_icon": "https://open.api.nexon.com/static/maplestorytw/skill/icon/KFHCLHKBEE",
                             "skill_effect_next": null
                         },
                         {
                             "skill_name": "古代力量",
                             "skill_description": "[等級上限 : 1]\\r\\n隨著透過調查逐步找回力量，將會越來越強。",
                             "skill_level": 1,
-                            "skill_effect": "攻擊力/魔力增加 15\r\n攻擊BOSS怪物時傷害增加40%\r\n無視怪物防禦率增加40%\r\n攻擊一般怪物時傷害增加 20%\r\n經驗值獲得量增加12.5%\r\n消滅BOSS怪物時獲得的靈魂艾爾達氣息增加100%\r\n從怪物公園退場時獲得的經驗值增加50%\r\n完成奧術之河每日任務時，獲得經驗值增加50%、獲得符文增加20個\r\n完成格蘭蒂斯每日任務時，增加30%獲得的經驗值、5個獲得的符文\r\n真實之力增加40\r\n從怪物公園退場時獲得的經驗值增加30%\r\n智慧餘響經驗值增加200%\r\n消滅BOSS怪物時，獲得的靈魂艾爾達氣息增加40%\r\n完成奧術之河每日任務時，增加20%獲得的經驗值、4個獲得的符文\r\n完成格蘭蒂斯每日任務時，增加20%獲得的經驗值、3個獲得的符文\r\n狩獵場獲得靈魂艾爾達氣息100%增加\r\n寶藏獵人經驗值獲得量100%增加\r\n攻擊BOSS怪物時傷害增加10%\r\n史詩副本基本經驗值獎勵獲得量100%增加",
+                            "skill_effect": "攻擊力/魔力增加 30\r\n攻擊BOSS怪物時傷害增加40%\r\n無視怪物防禦率增加40%\r\nBuff持續時間增加20%\r\n攻擊一般怪物時傷害增加 20%\r\n經驗值獲得量增加12.5%\r\n消滅BOSS怪物時獲得的靈魂艾爾達氣息增加100%\r\n從怪物公園退場時獲得的經驗值增加50%\r\n完成奧術之河每日任務時，獲得經驗值增加50%、獲得符文增加20個\r\n完成格蘭蒂斯每日任務時，增加50%獲得的經驗值、9個獲得的符文\r\n真實之力增加40\r\n從怪物公園退場時獲得的經驗值增加30%\r\n智慧餘響經驗值增加200%\r\n消滅BOSS怪物時，獲得的靈魂艾爾達氣息增加40%\r\n完成奧術之河每日任務時，增加20%獲得的經驗值、4個獲得的符文\r\n完成格蘭蒂斯每日任務時，增加20%獲得的經驗值、3個獲得的符文\r\n狩獵場獲得靈魂艾爾達氣息100%增加\r\n寶藏獵人經驗值獲得量100%增加\r\n攻擊BOSS怪物時傷害增加10%\r\n史詩副本基本經驗值獎勵獲得量150%增加",
                             "skill_icon": "https://open.api.nexon.com/static/maplestorytw/skill/icon/KFHCLHKBEH",
                             "skill_effect_next": null
                         }
@@ -1402,7 +1410,7 @@
                     ]
                 }
             ],
-            "timestamp": "2026-08-25T08:36:52"
+            "timestamp": "2026-09-01T06:32:05"
         },
         {
             "type": "block",
@@ -1993,9 +2001,9 @@
                         "potential_option_grade": "傳說",
                         "additional_potential_option_grade": null,
                         "potential_option_flag": "false",
-                        "potential_option_1": "被擊中時有10% 機率無視 20% 傷害",
-                        "potential_option_2": "防禦力 +240",
-                        "potential_option_3": "LUK +10%",
+                        "potential_option_1": "被擊時有4%機率在7秒間無敵",
+                        "potential_option_2": "DEX +10%",
+                        "potential_option_3": "STR +16",
                         "additional_potential_option_flag": "false",
                         "additional_potential_option_1": null,
                         "additional_potential_option_2": null,
@@ -2261,9 +2269,9 @@
                         "potential_option_2": "LUK +4%",
                         "potential_option_3": "STR +4%",
                         "additional_potential_option_flag": "false",
-                        "additional_potential_option_1": "MaxMP +3%",
-                        "additional_potential_option_2": "移動速度 +4",
-                        "additional_potential_option_3": "移動速度 +4",
+                        "additional_potential_option_1": "物理攻擊力 +11",
+                        "additional_potential_option_2": "MaxHP +60",
+                        "additional_potential_option_3": "INT +6",
                         "equipment_level_increase": 0,
                         "item_exceptional_option": {
                             "str": "0",
@@ -2393,9 +2401,9 @@
                         "potential_option_2": "MaxHP +230",
                         "potential_option_3": "HP恢復道具及恢復技能效率 +30%",
                         "additional_potential_option_flag": "false",
-                        "additional_potential_option_1": "DEX +3%",
-                        "additional_potential_option_2": "INT +6",
-                        "additional_potential_option_3": "移動速度 +4",
+                        "additional_potential_option_1": "STR +3%",
+                        "additional_potential_option_2": "魔法攻擊力 +3",
+                        "additional_potential_option_3": "魔法攻擊力 +3",
                         "equipment_level_increase": 0,
                         "item_exceptional_option": {
                             "str": "0",
@@ -2525,9 +2533,9 @@
                         "potential_option_2": "STR +4%",
                         "potential_option_3": "MaxMP +4%",
                         "additional_potential_option_flag": "false",
-                        "additional_potential_option_1": "INT +3%",
-                        "additional_potential_option_2": "MaxHP +60",
-                        "additional_potential_option_3": null,
+                        "additional_potential_option_1": "INT +11",
+                        "additional_potential_option_2": "DEX +6",
+                        "additional_potential_option_3": "物理攻擊力 +3",
                         "equipment_level_increase": 0,
                         "item_exceptional_option": {
                             "str": "0",
@@ -4369,9 +4377,9 @@
                         "potential_option_grade": "傳說",
                         "additional_potential_option_grade": "稀有",
                         "potential_option_flag": "false",
-                        "potential_option_1": "INT +18",
+                        "potential_option_1": "LUK +12%",
                         "potential_option_2": "物理攻擊力 +9%",
-                        "potential_option_3": "STR +16",
+                        "potential_option_3": "全屬性 +6%",
                         "additional_potential_option_flag": "false",
                         "additional_potential_option_1": "物理攻擊力 +6%",
                         "additional_potential_option_2": "MaxHP +100",
@@ -5691,9 +5699,9 @@
                         "potential_option_grade": "傳說",
                         "additional_potential_option_grade": null,
                         "potential_option_flag": "false",
-                        "potential_option_1": "被擊中時有10% 機率無視 20% 傷害",
-                        "potential_option_2": "防禦力 +240",
-                        "potential_option_3": "LUK +10%",
+                        "potential_option_1": "被擊時有4%機率在7秒間無敵",
+                        "potential_option_2": "DEX +10%",
+                        "potential_option_3": "STR +16",
                         "additional_potential_option_flag": "false",
                         "additional_potential_option_1": null,
                         "additional_potential_option_2": null,
@@ -5959,9 +5967,9 @@
                         "potential_option_2": "LUK +4%",
                         "potential_option_3": "STR +4%",
                         "additional_potential_option_flag": "false",
-                        "additional_potential_option_1": "MaxMP +3%",
-                        "additional_potential_option_2": "移動速度 +4",
-                        "additional_potential_option_3": "移動速度 +4",
+                        "additional_potential_option_1": "物理攻擊力 +11",
+                        "additional_potential_option_2": "MaxHP +60",
+                        "additional_potential_option_3": "INT +6",
                         "equipment_level_increase": 0,
                         "item_exceptional_option": {
                             "str": "0",
@@ -6091,9 +6099,9 @@
                         "potential_option_2": "MaxHP +230",
                         "potential_option_3": "HP恢復道具及恢復技能效率 +30%",
                         "additional_potential_option_flag": "false",
-                        "additional_potential_option_1": "DEX +3%",
-                        "additional_potential_option_2": "INT +6",
-                        "additional_potential_option_3": "移動速度 +4",
+                        "additional_potential_option_1": "STR +3%",
+                        "additional_potential_option_2": "魔法攻擊力 +3",
+                        "additional_potential_option_3": "魔法攻擊力 +3",
                         "equipment_level_increase": 0,
                         "item_exceptional_option": {
                             "str": "0",
@@ -6223,9 +6231,9 @@
                         "potential_option_2": "STR +4%",
                         "potential_option_3": "MaxMP +4%",
                         "additional_potential_option_flag": "false",
-                        "additional_potential_option_1": "INT +3%",
-                        "additional_potential_option_2": "MaxHP +60",
-                        "additional_potential_option_3": null,
+                        "additional_potential_option_1": "INT +11",
+                        "additional_potential_option_2": "DEX +6",
+                        "additional_potential_option_3": "物理攻擊力 +3",
                         "equipment_level_increase": 0,
                         "item_exceptional_option": {
                             "str": "0",
@@ -8067,9 +8075,9 @@
                         "potential_option_grade": "傳說",
                         "additional_potential_option_grade": "稀有",
                         "potential_option_flag": "false",
-                        "potential_option_1": "INT +18",
+                        "potential_option_1": "LUK +12%",
                         "potential_option_2": "物理攻擊力 +9%",
-                        "potential_option_3": "STR +16",
+                        "potential_option_3": "全屬性 +6%",
                         "additional_potential_option_flag": "false",
                         "additional_potential_option_1": "物理攻擊力 +6%",
                         "additional_potential_option_2": "MaxHP +100",
@@ -8993,9 +9001,9 @@
                         "potential_option_grade": "傳說",
                         "additional_potential_option_grade": null,
                         "potential_option_flag": "false",
-                        "potential_option_1": "被擊中時有10% 機率無視 20% 傷害",
-                        "potential_option_2": "防禦力 +240",
-                        "potential_option_3": "LUK +10%",
+                        "potential_option_1": "被擊時有4%機率在7秒間無敵",
+                        "potential_option_2": "DEX +10%",
+                        "potential_option_3": "STR +16",
                         "additional_potential_option_flag": "false",
                         "additional_potential_option_1": null,
                         "additional_potential_option_2": null,
@@ -9261,9 +9269,9 @@
                         "potential_option_2": "LUK +4%",
                         "potential_option_3": "STR +4%",
                         "additional_potential_option_flag": "false",
-                        "additional_potential_option_1": "MaxMP +3%",
-                        "additional_potential_option_2": "移動速度 +4",
-                        "additional_potential_option_3": "移動速度 +4",
+                        "additional_potential_option_1": "物理攻擊力 +11",
+                        "additional_potential_option_2": "MaxHP +60",
+                        "additional_potential_option_3": "INT +6",
                         "equipment_level_increase": 0,
                         "item_exceptional_option": {
                             "str": "0",
@@ -9393,9 +9401,9 @@
                         "potential_option_2": "MaxHP +230",
                         "potential_option_3": "HP恢復道具及恢復技能效率 +30%",
                         "additional_potential_option_flag": "false",
-                        "additional_potential_option_1": "DEX +3%",
-                        "additional_potential_option_2": "INT +6",
-                        "additional_potential_option_3": "移動速度 +4",
+                        "additional_potential_option_1": "STR +3%",
+                        "additional_potential_option_2": "魔法攻擊力 +3",
+                        "additional_potential_option_3": "魔法攻擊力 +3",
                         "equipment_level_increase": 0,
                         "item_exceptional_option": {
                             "str": "0",
@@ -9525,9 +9533,9 @@
                         "potential_option_2": "STR +4%",
                         "potential_option_3": "MaxMP +4%",
                         "additional_potential_option_flag": "false",
-                        "additional_potential_option_1": "INT +3%",
-                        "additional_potential_option_2": "MaxHP +60",
-                        "additional_potential_option_3": null,
+                        "additional_potential_option_1": "INT +11",
+                        "additional_potential_option_2": "DEX +6",
+                        "additional_potential_option_3": "物理攻擊力 +3",
                         "equipment_level_increase": 0,
                         "item_exceptional_option": {
                             "str": "0",
@@ -11237,9 +11245,9 @@
                         "potential_option_grade": "傳說",
                         "additional_potential_option_grade": "稀有",
                         "potential_option_flag": "false",
-                        "potential_option_1": "INT +18",
+                        "potential_option_1": "LUK +12%",
                         "potential_option_2": "物理攻擊力 +9%",
-                        "potential_option_3": "STR +16",
+                        "potential_option_3": "全屬性 +6%",
                         "additional_potential_option_flag": "false",
                         "additional_potential_option_1": "物理攻擊力 +6%",
                         "additional_potential_option_2": "MaxHP +100",
@@ -12031,9 +12039,9 @@
                         "potential_option_grade": "傳說",
                         "additional_potential_option_grade": null,
                         "potential_option_flag": "false",
-                        "potential_option_1": "被擊中時有10% 機率無視 20% 傷害",
-                        "potential_option_2": "防禦力 +240",
-                        "potential_option_3": "LUK +10%",
+                        "potential_option_1": "被擊時有4%機率在7秒間無敵",
+                        "potential_option_2": "DEX +10%",
+                        "potential_option_3": "STR +16",
                         "additional_potential_option_flag": "false",
                         "additional_potential_option_1": null,
                         "additional_potential_option_2": null,
@@ -12299,9 +12307,9 @@
                         "potential_option_2": "LUK +4%",
                         "potential_option_3": "STR +4%",
                         "additional_potential_option_flag": "false",
-                        "additional_potential_option_1": "MaxMP +3%",
-                        "additional_potential_option_2": "移動速度 +4",
-                        "additional_potential_option_3": "移動速度 +4",
+                        "additional_potential_option_1": "物理攻擊力 +11",
+                        "additional_potential_option_2": "MaxHP +60",
+                        "additional_potential_option_3": "INT +6",
                         "equipment_level_increase": 0,
                         "item_exceptional_option": {
                             "str": "0",
@@ -12431,9 +12439,9 @@
                         "potential_option_2": "MaxHP +230",
                         "potential_option_3": "HP恢復道具及恢復技能效率 +30%",
                         "additional_potential_option_flag": "false",
-                        "additional_potential_option_1": "DEX +3%",
-                        "additional_potential_option_2": "INT +6",
-                        "additional_potential_option_3": "移動速度 +4",
+                        "additional_potential_option_1": "STR +3%",
+                        "additional_potential_option_2": "魔法攻擊力 +3",
+                        "additional_potential_option_3": "魔法攻擊力 +3",
                         "equipment_level_increase": 0,
                         "item_exceptional_option": {
                             "str": "0",
@@ -12563,9 +12571,9 @@
                         "potential_option_2": "STR +4%",
                         "potential_option_3": "MaxMP +4%",
                         "additional_potential_option_flag": "false",
-                        "additional_potential_option_1": "INT +3%",
-                        "additional_potential_option_2": "MaxHP +60",
-                        "additional_potential_option_3": null,
+                        "additional_potential_option_1": "INT +11",
+                        "additional_potential_option_2": "DEX +6",
+                        "additional_potential_option_3": "物理攻擊力 +3",
                         "equipment_level_increase": 0,
                         "item_exceptional_option": {
                             "str": "0",
@@ -14407,9 +14415,9 @@
                         "potential_option_grade": "傳說",
                         "additional_potential_option_grade": "稀有",
                         "potential_option_flag": "false",
-                        "potential_option_1": "INT +18",
+                        "potential_option_1": "LUK +12%",
                         "potential_option_2": "物理攻擊力 +9%",
-                        "potential_option_3": "STR +16",
+                        "potential_option_3": "全屬性 +6%",
                         "additional_potential_option_flag": "false",
                         "additional_potential_option_1": "物理攻擊力 +6%",
                         "additional_potential_option_2": "MaxHP +100",
@@ -14642,7 +14650,7 @@
                 "dragon_equipment": [],
                 "mechanic_equipment": []
             },
-            "timestamp": "2026-08-25T08:36:52"
+            "timestamp": "2026-09-01T06:32:06"
         },
         {
             "type": "block",
@@ -14705,7 +14713,7 @@
                 "android_preset_2": null,
                 "android_preset_3": null
             },
-            "timestamp": "2026-08-30T10:14:07"
+            "timestamp": "2026-09-01T06:32:06"
         },
         {
             "type": "block",
@@ -15099,7 +15107,7 @@
                     "skill_icon": "https://open.api.nexon.com/static/maplestorytw/skill/icon/KEKCLFODIB"
                 }
             },
-            "timestamp": "2026-08-30T10:14:07"
+            "timestamp": "2026-09-01T06:32:07"
         },
         {
             "type": "character_done",
