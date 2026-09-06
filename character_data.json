@@ -1,5 +1,5 @@
 {
-    "fetch_time": "2026-09-05 01:51:51",
+    "fetch_time": "2026-09-06 01:46:22",
     "events": [
         {
             "type": "character_start",
@@ -18,15 +18,15 @@
                 "character_class": "阿戴爾",
                 "character_class_level": "6",
                 "character_level": 262,
-                "character_exp": 627713453384,
-                "character_exp_rate": "35.530",
+                "character_exp": 628043617747,
+                "character_exp_rate": "35.548",
                 "character_guild_name": "Rainy",
                 "character_image": "https://open.api.nexon.com/static/maplestorytw/character/look/GOOKFPNPPDDJCHJGMPEPBIPALMFDFJMGGCPGLBGBPNBFEBJJNNOPOOFHGBOEMBCKHOHOCFECJPCDNPDGNLMNFCLLJOHEGDHLKGBNFCEBIMOJMNONOHHMFHJKAEOOCJEJNECKPKCDLLECBJMFCCHPBKHOELGHNKCMGINLLPHEAFLHAJJBFDECMHAIDDPJDNDMLCJMADMHDCNKJDBKCDAMDGPMLGELCKACPKLMIDELDNPCKMKMNLLDJNKHJANKDACOOCBGAHJHCABHANIFGJGCEAAFKFEJONKGDFHIBGJIMBLOPNCBFOCHNPNHLDIKJBDBEMODOLILJGLJPFLOPJJFDMPFEIHHKNHJMFDCBEKNKJHMNLHBMPHLLCBGMOLIHINFFMFPCPFCJCCGNIJBBCKHEMDFBODGPMFEADNLLLHGFHAGAKFIMBKBHILBONLANHILBPKOEHHCOBNEHOHJFNECIEAEGILBENKGBKKKNCFMJKDBHNDAOJHENPPCNNOHGDEPOCOFIBAINKPLHICLDKBEMOIINKHMGLIJMEABALJCFHIEMPFHMNGIKAHJJIDHPCMOFDMHOPJCGMFHKPJGBBHGPELBCJHKKBFCCNIPGLDPCIFFKEJMPKMKJCFNPLPGAEFNFDOBJCHEOIACCFJLHHLOCJIICIDMGNOOOIAEIJEDOGDFLNFNEAMEKIMIFKKIKJDOBFEEFILKPMFAKCMJHBCGBIILAGHPEFFJIJJLAJKJNBBJIEDNCFHAIFOCMJFJCMDPGEPGFIOFKFMJMEBCOOALNMLHLGAGPGCBJLDGGJPEMMFLJHOPIFGLOICJPLCJKDGFMDLBFHEJHNILAIKJEDHNFLGIIAHFJPIEMDKJCODIOPEJAEELHLHENPLKGCDONOMOEOHFPFOKEBOKGFFKLDCJOMGDFALDLJFHGDEIIFAABLONLKEKAGNBBHFMIMGMPLIMKDHEGDNMACECOCNCDNNOPAFPAFPDMGLGJDDPALNBHJGMLKDLPCOPMLPCHEGGLGHP",
                 "character_date_create": "2024-05-18T00:00+08:00",
                 "access_flag": "true",
                 "liberation_quest_clear": "0"
             },
-            "timestamp": "2026-09-05T09:51:50"
+            "timestamp": "2026-09-06T09:46:21"
         },
         {
             "type": "block",
@@ -38,11 +38,11 @@
                 "final_stat": [
                     {
                         "stat_name": "最低屬性攻擊力",
-                        "stat_value": "11132337"
+                        "stat_value": "11894668"
                     },
                     {
                         "stat_name": "最高屬性攻擊力",
-                        "stat_value": "12369262"
+                        "stat_value": "13216296"
                     },
                     {
                         "stat_name": "傷害",
@@ -58,7 +58,7 @@
                     },
                     {
                         "stat_name": "無視防禦率",
-                        "stat_value": "96.02"
+                        "stat_value": "96.04"
                     },
                     {
                         "stat_name": "爆擊機率",
@@ -78,7 +78,7 @@
                     },
                     {
                         "stat_name": "防禦力",
-                        "stat_value": "45341"
+                        "stat_value": "44804"
                     },
                     {
                         "stat_name": "移動速度",
@@ -102,23 +102,23 @@
                     },
                     {
                         "stat_name": "STR",
-                        "stat_value": "24492"
+                        "stat_value": "24241"
                     },
                     {
                         "stat_name": "DEX",
-                        "stat_value": "2811"
+                        "stat_value": "2572"
                     },
                     {
                         "stat_name": "INT",
-                        "stat_value": "1465"
+                        "stat_value": "1491"
                     },
                     {
                         "stat_name": "LUK",
-                        "stat_value": "1687"
+                        "stat_value": "1526"
                     },
                     {
                         "stat_name": "HP",
-                        "stat_value": "70905"
+                        "stat_value": "71409"
                     },
                     {
                         "stat_name": "MP",
@@ -198,7 +198,7 @@
                     },
                     {
                         "stat_name": "攻擊力",
-                        "stat_value": "2371"
+                        "stat_value": "2565"
                     },
                     {
                         "stat_name": "魔法攻擊力",
@@ -206,7 +206,7 @@
                     },
                     {
                         "stat_name": "戰鬥力",
-                        "stat_value": "17791460"
+                        "stat_value": "19178232"
                     },
                     {
                         "stat_name": "召喚獸持續時間增加",
@@ -215,7 +215,7 @@
                 ],
                 "remain_ap": 0
             },
-            "timestamp": "2026-09-04T09:51:02"
+            "timestamp": "2026-09-05T18:02:24"
         },
         {
             "type": "block",
@@ -346,7 +346,7 @@
                     }
                 ]
             },
-            "timestamp": "2026-09-04T09:51:02"
+            "timestamp": "2026-09-05T18:02:25"
         },
         {
             "type": "block",
@@ -367,7 +367,7 @@
                     }
                 ]
             },
-            "timestamp": "2026-09-04T09:51:02"
+            "timestamp": "2026-09-05T18:02:26"
         },
         {
             "type": "block",
@@ -375,14 +375,14 @@
             "name": "propensity",
             "data": {
                 "date": null,
-                "charisma_level": 54,
+                "charisma_level": 55,
                 "sensibility_level": 4,
                 "insight_level": 0,
                 "willingness_level": 10,
                 "handicraft_level": 10,
                 "charm_level": 34
             },
-            "timestamp": "2026-09-04T09:51:03"
+            "timestamp": "2026-09-05T18:02:27"
         },
         {
             "type": "block",
@@ -408,7 +408,7 @@
                         "ability_value": "攻擊陷入狀態異常的對象時，傷害增加5%"
                     }
                 ],
-                "remain_fame": 547530,
+                "remain_fame": 559380,
                 "preset_no": 2,
                 "ability_preset_1": {
                     "ability_preset_grade": "傳說",
@@ -471,7 +471,7 @@
                     ]
                 }
             },
-            "timestamp": "2026-09-04T09:51:03"
+            "timestamp": "2026-09-05T18:02:28"
         },
         {
             "type": "block",
@@ -1410,7 +1410,7 @@
                     ]
                 }
             ],
-            "timestamp": "2026-09-04T09:51:07"
+            "timestamp": "2026-09-05T18:02:37"
         },
         {
             "type": "block",
@@ -2001,9 +2001,9 @@
                         "potential_option_grade": "傳說",
                         "additional_potential_option_grade": null,
                         "potential_option_flag": "false",
-                        "potential_option_1": "被擊時有4%機率在7秒間無敵",
-                        "potential_option_2": "DEX +10%",
-                        "potential_option_3": "STR +16",
+                        "potential_option_1": "MaxHP +300",
+                        "potential_option_2": "被打擊後無敵時間 +2秒",
+                        "potential_option_3": "被擊中時有5% 機率無視 20% 傷害",
                         "additional_potential_option_flag": "false",
                         "additional_potential_option_1": null,
                         "additional_potential_option_2": null,
@@ -4377,9 +4377,9 @@
                         "potential_option_grade": "傳說",
                         "additional_potential_option_grade": "稀有",
                         "potential_option_flag": "false",
-                        "potential_option_1": "LUK +12%",
+                        "potential_option_1": "物理攻擊力 +12%",
                         "potential_option_2": "物理攻擊力 +9%",
-                        "potential_option_3": "全屬性 +6%",
+                        "potential_option_3": "INT +9%",
                         "additional_potential_option_flag": "false",
                         "additional_potential_option_1": "物理攻擊力 +6%",
                         "additional_potential_option_2": "MaxHP +100",
@@ -5699,9 +5699,9 @@
                         "potential_option_grade": "傳說",
                         "additional_potential_option_grade": null,
                         "potential_option_flag": "false",
-                        "potential_option_1": "被擊時有4%機率在7秒間無敵",
-                        "potential_option_2": "DEX +10%",
-                        "potential_option_3": "STR +16",
+                        "potential_option_1": "MaxHP +300",
+                        "potential_option_2": "被打擊後無敵時間 +2秒",
+                        "potential_option_3": "被擊中時有5% 機率無視 20% 傷害",
                         "additional_potential_option_flag": "false",
                         "additional_potential_option_1": null,
                         "additional_potential_option_2": null,
@@ -8075,9 +8075,9 @@
                         "potential_option_grade": "傳說",
                         "additional_potential_option_grade": "稀有",
                         "potential_option_flag": "false",
-                        "potential_option_1": "LUK +12%",
+                        "potential_option_1": "物理攻擊力 +12%",
                         "potential_option_2": "物理攻擊力 +9%",
-                        "potential_option_3": "全屬性 +6%",
+                        "potential_option_3": "INT +9%",
                         "additional_potential_option_flag": "false",
                         "additional_potential_option_1": "物理攻擊力 +6%",
                         "additional_potential_option_2": "MaxHP +100",
@@ -9001,9 +9001,9 @@
                         "potential_option_grade": "傳說",
                         "additional_potential_option_grade": null,
                         "potential_option_flag": "false",
-                        "potential_option_1": "被擊時有4%機率在7秒間無敵",
-                        "potential_option_2": "DEX +10%",
-                        "potential_option_3": "STR +16",
+                        "potential_option_1": "MaxHP +300",
+                        "potential_option_2": "被打擊後無敵時間 +2秒",
+                        "potential_option_3": "被擊中時有5% 機率無視 20% 傷害",
                         "additional_potential_option_flag": "false",
                         "additional_potential_option_1": null,
                         "additional_potential_option_2": null,
@@ -11245,9 +11245,9 @@
                         "potential_option_grade": "傳說",
                         "additional_potential_option_grade": "稀有",
                         "potential_option_flag": "false",
-                        "potential_option_1": "LUK +12%",
+                        "potential_option_1": "物理攻擊力 +12%",
                         "potential_option_2": "物理攻擊力 +9%",
-                        "potential_option_3": "全屬性 +6%",
+                        "potential_option_3": "INT +9%",
                         "additional_potential_option_flag": "false",
                         "additional_potential_option_1": "物理攻擊力 +6%",
                         "additional_potential_option_2": "MaxHP +100",
@@ -12039,9 +12039,9 @@
                         "potential_option_grade": "傳說",
                         "additional_potential_option_grade": null,
                         "potential_option_flag": "false",
-                        "potential_option_1": "被擊時有4%機率在7秒間無敵",
-                        "potential_option_2": "DEX +10%",
-                        "potential_option_3": "STR +16",
+                        "potential_option_1": "MaxHP +300",
+                        "potential_option_2": "被打擊後無敵時間 +2秒",
+                        "potential_option_3": "被擊中時有5% 機率無視 20% 傷害",
                         "additional_potential_option_flag": "false",
                         "additional_potential_option_1": null,
                         "additional_potential_option_2": null,
@@ -14415,9 +14415,9 @@
                         "potential_option_grade": "傳說",
                         "additional_potential_option_grade": "稀有",
                         "potential_option_flag": "false",
-                        "potential_option_1": "LUK +12%",
+                        "potential_option_1": "物理攻擊力 +12%",
                         "potential_option_2": "物理攻擊力 +9%",
-                        "potential_option_3": "全屬性 +6%",
+                        "potential_option_3": "INT +9%",
                         "additional_potential_option_flag": "false",
                         "additional_potential_option_1": "物理攻擊力 +6%",
                         "additional_potential_option_2": "MaxHP +100",
@@ -14650,7 +14650,7 @@
                 "dragon_equipment": [],
                 "mechanic_equipment": []
             },
-            "timestamp": "2026-09-04T09:51:08"
+            "timestamp": "2026-09-05T18:02:37"
         },
         {
             "type": "block",
@@ -14713,7 +14713,7 @@
                 "android_preset_2": null,
                 "android_preset_3": null
             },
-            "timestamp": "2026-09-04T09:51:08"
+            "timestamp": "2026-09-05T18:02:38"
         },
         {
             "type": "block",
@@ -15107,7 +15107,7 @@
                     "skill_icon": "https://open.api.nexon.com/static/maplestorytw/skill/icon/KEKCLFODIB"
                 }
             },
-            "timestamp": "2026-09-04T09:51:08"
+            "timestamp": "2026-09-05T18:02:38"
         },
         {
             "type": "character_done",
