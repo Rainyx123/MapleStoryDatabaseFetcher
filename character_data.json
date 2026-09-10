@@ -1,5 +1,5 @@
 {
-    "fetch_time": "2026-09-09 02:00:17",
+    "fetch_time": "2026-09-10 01:57:37",
     "events": [
         {
             "type": "character_start",
@@ -26,7 +26,7 @@
                 "access_flag": "true",
                 "liberation_quest_clear": "0"
             },
-            "timestamp": "2026-09-09T00:13:57"
+            "timestamp": "2026-09-10T09:57:35"
         },
         {
             "type": "block",
