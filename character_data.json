@@ -1,5 +1,5 @@
 {
-    "fetch_time": "2026-09-13 01:54:30",
+    "fetch_time": "2026-09-14 02:12:01",
     "events": [
         {
             "type": "character_start",
@@ -26,7 +26,7 @@
                 "access_flag": "true",
                 "liberation_quest_clear": "0"
             },
-            "timestamp": "2026-09-13T09:54:29"
+            "timestamp": "2026-09-14T10:12:00"
         },
         {
             "type": "block",
@@ -38,11 +38,11 @@
                 "final_stat": [
                     {
                         "stat_name": "最低屬性攻擊力",
-                        "stat_value": "11894668"
+                        "stat_value": "12738928"
                     },
                     {
                         "stat_name": "最高屬性攻擊力",
-                        "stat_value": "13216296"
+                        "stat_value": "14154362"
                     },
                     {
                         "stat_name": "傷害",
@@ -50,7 +50,7 @@
                     },
                     {
                         "stat_name": "BOSS怪物傷害",
-                        "stat_value": "437.00"
+                        "stat_value": "407.00"
                     },
                     {
                         "stat_name": "最終傷害",
@@ -58,7 +58,7 @@
                     },
                     {
                         "stat_name": "無視防禦率",
-                        "stat_value": "96.04"
+                        "stat_value": "94.06"
                     },
                     {
                         "stat_name": "爆擊機率",
@@ -78,7 +78,7 @@
                     },
                     {
                         "stat_name": "防禦力",
-                        "stat_value": "44804"
+                        "stat_value": "44892"
                     },
                     {
                         "stat_name": "移動速度",
@@ -98,7 +98,7 @@
                     },
                     {
                         "stat_name": "真實之力",
-                        "stat_value": "70"
+                        "stat_value": "30"
                     },
                     {
                         "stat_name": "STR",
@@ -106,7 +106,7 @@
                     },
                     {
                         "stat_name": "DEX",
-                        "stat_value": "2572"
+                        "stat_value": "2792"
                     },
                     {
                         "stat_name": "INT",
@@ -118,11 +118,11 @@
                     },
                     {
                         "stat_name": "HP",
-                        "stat_value": "71409"
+                        "stat_value": "70905"
                     },
                     {
                         "stat_name": "MP",
-                        "stat_value": "24528"
+                        "stat_value": "26359"
                     },
                     {
                         "stat_name": "AP配點STR",
@@ -158,15 +158,15 @@
                     },
                     {
                         "stat_name": "Buff持續時間",
-                        "stat_value": "90"
+                        "stat_value": "70"
                     },
                     {
                         "stat_name": "攻擊速度",
-                        "stat_value": "6"
+                        "stat_value": "7"
                     },
                     {
                         "stat_name": "一般怪物傷害",
-                        "stat_value": "32.00"
+                        "stat_value": "12.00"
                     },
                     {
                         "stat_name": "冷卻時間減少(秒)",
@@ -194,19 +194,19 @@
                     },
                     {
                         "stat_name": "獲得額外經驗值",
-                        "stat_value": "47.50"
+                        "stat_value": "35.00"
                     },
                     {
                         "stat_name": "攻擊力",
-                        "stat_value": "2565"
+                        "stat_value": "2741"
                     },
                     {
                         "stat_name": "魔法攻擊力",
-                        "stat_value": "743"
+                        "stat_value": "731"
                     },
                     {
                         "stat_name": "戰鬥力",
-                        "stat_value": "19178232"
+                        "stat_value": "19771250"
                     },
                     {
                         "stat_name": "召喚獸持續時間增加",
@@ -215,7 +215,7 @@
                 ],
                 "remain_ap": 0
             },
-            "timestamp": "2026-09-12T10:00:09"
+            "timestamp": "2026-09-13T09:54:30"
         },
         {
             "type": "block",
@@ -346,7 +346,7 @@
                     }
                 ]
             },
-            "timestamp": "2026-09-12T10:00:09"
+            "timestamp": "2026-09-13T09:54:30"
         },
         {
             "type": "block",
@@ -367,7 +367,7 @@
                     }
                 ]
             },
-            "timestamp": "2026-09-12T10:00:10"
+            "timestamp": "2026-09-13T09:54:31"
         },
         {
             "type": "block",
@@ -375,14 +375,14 @@
             "name": "propensity",
             "data": {
                 "date": null,
-                "charisma_level": 55,
+                "charisma_level": 56,
                 "sensibility_level": 4,
                 "insight_level": 0,
                 "willingness_level": 10,
                 "handicraft_level": 10,
                 "charm_level": 34
             },
-            "timestamp": "2026-09-12T10:00:10"
+            "timestamp": "2026-09-13T09:54:31"
         },
         {
             "type": "block",
@@ -408,7 +408,7 @@
                         "ability_value": "攻擊陷入狀態異常的對象時，傷害增加5%"
                     }
                 ],
-                "remain_fame": 559380,
+                "remain_fame": 571230,
                 "preset_no": 2,
                 "ability_preset_1": {
                     "ability_preset_grade": "傳說",
@@ -471,7 +471,7 @@
                     ]
                 }
             },
-            "timestamp": "2026-09-12T10:00:10"
+            "timestamp": "2026-09-13T09:54:32"
         },
         {
             "type": "block",
@@ -548,6 +548,14 @@
                             "skill_effect_next": null
                         },
                         {
+                            "skill_name": "遊樂場吉祥物 Lv.1",
+                            "skill_description": "[等級上限 : 1]\r\n利用遊樂場吉祥物的力量，讓自己的攻擊力和魔力各增加8。",
+                            "skill_level": 1,
+                            "skill_effect": "增加攻擊力 8、魔力 8",
+                            "skill_icon": "https://open.api.nexon.com/static/maplestorytw/skill/icon/KFHCLHOIOF",
+                            "skill_effect_next": null
+                        },
+                        {
                             "skill_name": "武器泡泡 - S環",
                             "skill_description": "[等級上限 : 4]\r\n一定時間內依照主武器攻擊或魔力的部分值增加STR。不會得到冷卻時間初始化的效果。",
                             "skill_level": 4,
@@ -564,59 +572,11 @@
                             "skill_effect_next": null
                         },
                         {
-                            "skill_name": "艾拉諾斯I",
-                            "skill_description": "[等級上限 : 4]\r\n艾拉諾斯跳躍並發射衝擊波攻擊周圍敵人。\n\n艾拉諾斯無法在空中召喚，且攻擊處於反射狀態的敵人時不會受到傷害。\n\n套用影分身、替身術、壓制砲擊、沉月、雙重力量、暗影僕從、引雷、高貴血統、虛擬投影時，將不套用攻擊次數增加效果，改為套用相同數值的最終傷害增加效果。\n\n召喚艾拉諾斯70秒。\n艾拉諾斯跳躍：對最多10名敵人造成500%傷害，攻擊6次\n冷卻時間60秒\n艾拉諾斯成長時攻擊範圍與傷害增加。\n不受冷卻時間重置效果與Buff持續時間增加效果影響。",
-                            "skill_level": 4,
-                            "skill_effect": null,
-                            "skill_icon": "https://open.api.nexon.com/static/maplestorytw/skill/icon/KFHCLHKBKA",
-                            "skill_effect_next": null
-                        },
-                        {
-                            "skill_name": "艾拉諾斯II",
-                            "skill_description": "[等級上限 : 4]\r\n艾拉諾斯啃咬前方，攻擊周圍敵人。\n\n艾拉諾斯無法在空中召喚，且攻擊處於反射狀態的敵人時不會受到傷害。\n\n套用影分身、替身術、壓制砲擊、沉月、雙重力量、暗影僕從、引雷、高貴血統、虛擬投影時，將不套用攻擊次數增加效果，改為套用相同數值的最終傷害增加效果。\n\n召喚艾拉諾斯70秒。\n艾拉諾斯撕咬：對最多10名敵人造成550%傷害，攻擊6次\n冷卻時間60秒\n艾拉諾斯成長時攻擊範圍與傷害增加。\n不受冷卻時間重置效果與Buff持續時間增加效果影響。",
-                            "skill_level": 2,
-                            "skill_effect": null,
-                            "skill_icon": "https://open.api.nexon.com/static/maplestorytw/skill/icon/KFHCLHKBKB",
-                            "skill_effect_next": null
-                        },
-                        {
-                            "skill_name": "艾拉諾斯III",
-                            "skill_description": "[等級上限 : 4]\r\n艾拉諾斯以鋒利的爪子攻擊周圍敵人。\n\n艾拉諾斯無法在空中召喚，且攻擊處於反射狀態的敵人時不會受到傷害。\n\n套用影分身、替身術、壓制砲擊、沉月、雙重力量、暗影僕從、引雷、高貴血統、虛擬投影時，將不套用攻擊次數增加效果，改為套用相同數值的最終傷害增加效果。\n\n召喚艾拉諾斯70秒。\n艾拉諾斯利爪：對最多10名敵人造成600%傷害，攻擊6次\n冷卻時間60秒\n艾拉諾斯成長時攻擊範圍與傷害增加。\n不受冷卻時間重置效果與Buff持續時間增加效果影響。",
-                            "skill_level": 3,
-                            "skill_effect": null,
-                            "skill_icon": "https://open.api.nexon.com/static/maplestorytw/skill/icon/KFHCLHKBKC",
-                            "skill_effect_next": null
-                        },
-                        {
-                            "skill_name": "艾拉諾斯IV",
-                            "skill_description": "[等級上限 : 4]\r\n艾拉諾斯猛烈咆哮，攻擊周圍敵人。\n\n艾拉諾斯無法在空中召喚，且攻擊處於反射狀態的敵人時不會受到傷害。\n\n套用影分身、替身術、壓制砲擊、沉月、雙重力量、暗影僕從、引雷、高貴血統、虛擬投影時，將不套用攻擊次數增加效果，改為套用相同數值的最終傷害增加效果。\n\n召喚艾拉諾斯70秒。\n艾拉諾斯咆哮：對最多10名敵人造成650%傷害，攻擊6次\n冷卻時間60秒\n艾拉諾斯成長時攻擊範圍與傷害增加。\n不受冷卻時間重置效果與Buff持續時間增加效果影響。",
-                            "skill_level": 4,
-                            "skill_effect": null,
-                            "skill_icon": "https://open.api.nexon.com/static/maplestorytw/skill/icon/KFHCLHKBKD",
-                            "skill_effect_next": null
-                        },
-                        {
-                            "skill_name": "幻影魔法",
-                            "skill_description": "[等級上限 : 1]\r\n由記憶與回憶的幻影交織而成的神祕魔法。",
+                            "skill_name": "特別課程",
+                            "skill_description": "[等級上限 : 1]\r\n這是在楓之谷學院進行中的武公與艾畢奈亞的課程。",
                             "skill_level": 1,
-                            "skill_effect": null,
-                            "skill_icon": "https://open.api.nexon.com/static/maplestorytw/skill/icon/KFHCLHKBKF",
-                            "skill_effect_next": null
-                        },
-                        {
-                            "skill_name": "咆哮的艾拉諾斯",
-                            "skill_description": "[最高等級：1]\n每當消滅等級範圍怪物時可累積計量表，\n當計量表全滿時，即可發動<咆哮的艾拉諾斯>。\n\n每日<咆哮的艾拉諾斯>發動次數達到20次時\n結束。\n\n活動期間結束後將無法使用。\n\n - 變更開關\n右擊新手技能欄<咆哮的艾拉諾斯>技能\n - 變更自動/手動\n右擊UI的<咆哮的艾拉諾斯>技能\n",
-                            "skill_level": 1,
-                            "skill_effect": "\n\n<咆哮的艾拉諾斯II>最多對15名敵人以3000%傷害攻擊1次的\n爆炸發動6次的技能發動6次",
-                            "skill_icon": "https://open.api.nexon.com/static/maplestorytw/skill/icon/KFHCLHKBEE",
-                            "skill_effect_next": null
-                        },
-                        {
-                            "skill_name": "古代力量",
-                            "skill_description": "[等級上限 : 1]\r\n隨著透過調查逐步找回力量，將會越來越強。",
-                            "skill_level": 1,
-                            "skill_effect": "攻擊力/魔力增加 30\r\n攻擊BOSS怪物時傷害增加40%\r\n無視怪物防禦率增加40%\r\nBuff持續時間增加20%\r\n攻擊一般怪物時傷害增加 20%\r\n經驗值獲得量增加12.5%\r\n消滅BOSS怪物時獲得的靈魂艾爾達氣息增加100%\r\n從怪物公園退場時獲得的經驗值增加50%\r\n完成奧術之河每日任務時，獲得經驗值增加50%、獲得符文增加20個\r\n完成格蘭蒂斯每日任務時，增加50%獲得的經驗值、9個獲得的符文\r\n真實之力增加40\r\n從怪物公園退場時獲得的經驗值增加30%\r\n智慧餘響經驗值增加200%\r\n消滅BOSS怪物時，獲得的靈魂艾爾達氣息增加40%\r\n完成奧術之河每日任務時，增加20%獲得的經驗值、4個獲得的符文\r\n完成格蘭蒂斯每日任務時，增加20%獲得的經驗值、3個獲得的符文\r\n狩獵場獲得靈魂艾爾達氣息100%增加\r\n寶藏獵人經驗值獲得量100%增加\r\n攻擊BOSS怪物時傷害增加10%\r\n史詩副本基本經驗值獎勵獲得量150%增加",
-                            "skill_icon": "https://open.api.nexon.com/static/maplestorytw/skill/icon/KFHCLHKBEH",
+                            "skill_effect": "增加攻擊BOSS怪物時傷害 20%\r\n無視怪物防禦率增加10%\r\n從怪物公園退場時獲得的經驗值增加20%",
+                            "skill_icon": "https://open.api.nexon.com/static/maplestorytw/skill/icon/KFHCLHNJFD",
                             "skill_effect_next": null
                         }
                     ]
@@ -1099,19 +1059,19 @@
                             "skill_effect_next": "消耗100 HP，持續50秒。使用時將恢復25%HP，共可使用15次\n在持續時間結束前消失時，將生成神聖之痕直到剩餘的持續時間耗盡\n冷卻時間為70秒\n[被動效果：全屬性增加4]"
                         },
                         {
-                            "skill_name": "碎片/奇蹟強化",
-                            "skill_description": "[等級上限 : 60]\r\n強化碎片/奇蹟。\n\n20級：攻擊一般怪物時傷害10%增加\n40級：無視怪物防禦率增加20%",
-                            "skill_level": 60,
-                            "skill_effect": "碎片/奇蹟的最終傷害增加120%",
-                            "skill_icon": "https://open.api.nexon.com/static/maplestorytw/skill/icon/KBPCLHKAII",
-                            "skill_effect_next": null
-                        },
-                        {
                             "skill_name": "行星強化",
                             "skill_description": "[等級上限 : 60]\r\n強化行星。\n\n20級：最大可攻擊對象+1\n40級：無視怪物防禦率增加20%",
                             "skill_level": 60,
                             "skill_effect": "行星的最終傷害增加420%",
                             "skill_icon": "https://open.api.nexon.com/static/maplestorytw/skill/icon/KBPCLHKAIG",
+                            "skill_effect_next": null
+                        },
+                        {
+                            "skill_name": "碎片/奇蹟強化",
+                            "skill_description": "[等級上限 : 60]\r\n強化碎片/奇蹟。\n\n20級：攻擊一般怪物時傷害10%增加\n40級：無視怪物防禦率增加20%",
+                            "skill_level": 60,
+                            "skill_effect": "碎片/奇蹟的最終傷害增加120%",
+                            "skill_icon": "https://open.api.nexon.com/static/maplestorytw/skill/icon/KBPCLHKAII",
                             "skill_effect_next": null
                         },
                         {
@@ -1131,14 +1091,6 @@
                             "skill_effect_next": null
                         },
                         {
-                            "skill_name": "十字斬強化",
-                            "skill_description": "[等級上限 : 60]\r\n強化十字斬。\n\n20級：最大可攻擊對象+1\n40級：無視怪物防禦率增加20%",
-                            "skill_level": 60,
-                            "skill_effect": "十字斬的最終傷害增加180%",
-                            "skill_icon": "https://open.api.nexon.com/static/maplestorytw/skill/icon/KBPCLHKAJB",
-                            "skill_effect_next": null
-                        },
-                        {
                             "skill_name": "穿刺強化",
                             "skill_description": "[等級上限 : 60]\r\n強化穿刺。\n\n20級：最大可攻擊對象+1\n40級：無視怪物防禦率增加20%",
                             "skill_level": 60,
@@ -1155,19 +1107,27 @@
                             "skill_effect_next": null
                         },
                         {
-                            "skill_name": "魔力爆裂強化",
-                            "skill_description": "[等級上限 : 60]\r\n強化魔力爆裂。\n\n20級：最大可攻擊對象+1\n40級：無視怪物防禦率增加20%",
-                            "skill_level": 60,
-                            "skill_effect": "魔力爆裂的最終傷害增加120%",
-                            "skill_icon": "https://open.api.nexon.com/static/maplestorytw/skill/icon/KBPCLHKAJE",
-                            "skill_effect_next": null
-                        },
-                        {
                             "skill_name": "創造強化",
                             "skill_description": "[等級上限 : 60]\r\n強化創造。\n\n20級：最大可攻擊對象+1\n40級：無視怪物防禦率增加20%",
                             "skill_level": 60,
                             "skill_effect": "創造的最終傷害增加120%",
                             "skill_icon": "https://open.api.nexon.com/static/maplestorytw/skill/icon/KBPCLHKAJF",
+                            "skill_effect_next": null
+                        },
+                        {
+                            "skill_name": "十字斬強化",
+                            "skill_description": "[等級上限 : 60]\r\n強化十字斬。\n\n20級：最大可攻擊對象+1\n40級：無視怪物防禦率增加20%",
+                            "skill_level": 60,
+                            "skill_effect": "十字斬的最終傷害增加180%",
+                            "skill_icon": "https://open.api.nexon.com/static/maplestorytw/skill/icon/KBPCLHKAJB",
+                            "skill_effect_next": null
+                        },
+                        {
+                            "skill_name": "追蹤強化",
+                            "skill_description": "[等級上限 : 60]\r\n強化追蹤。\n\n20級：攻擊一般怪物時傷害10%增加\n40級：無視怪物防禦率增加20%",
+                            "skill_level": 60,
+                            "skill_effect": "追蹤的最終傷害增加120%",
+                            "skill_icon": "https://open.api.nexon.com/static/maplestorytw/skill/icon/KBPCLHKAKA",
                             "skill_effect_next": null
                         },
                         {
@@ -1187,35 +1147,11 @@
                             "skill_effect_next": null
                         },
                         {
-                            "skill_name": "踐踏強化",
-                            "skill_description": "[等級上限 : 60]\r\n強化踐踏。\n\n20級：最大可攻擊對象+1\n40級：無視怪物防禦率增加20%",
-                            "skill_level": 60,
-                            "skill_effect": "踐踏的最終傷害增加120%",
-                            "skill_icon": "https://open.api.nexon.com/static/maplestorytw/skill/icon/KBPCLHKAJI",
-                            "skill_effect_next": null
-                        },
-                        {
                             "skill_name": "切割強化",
                             "skill_description": "[等級上限 : 60]\r\n強化切割。\n\n20級：最大可攻擊對象+1\n40級：無視怪物防禦率增加20%",
                             "skill_level": 60,
                             "skill_effect": "切割的最終傷害增加120%",
                             "skill_icon": "https://open.api.nexon.com/static/maplestorytw/skill/icon/KBPCLHKAJJ",
-                            "skill_effect_next": null
-                        },
-                        {
-                            "skill_name": "追蹤強化",
-                            "skill_description": "[等級上限 : 60]\r\n強化追蹤。\n\n20級：攻擊一般怪物時傷害10%增加\n40級：無視怪物防禦率增加20%",
-                            "skill_level": 60,
-                            "skill_effect": "追蹤的最終傷害增加120%",
-                            "skill_icon": "https://open.api.nexon.com/static/maplestorytw/skill/icon/KBPCLHKAKA",
-                            "skill_effect_next": null
-                        },
-                        {
-                            "skill_name": "死亡標記強化",
-                            "skill_description": "[等級上限 : 60]\r\n強化死亡標記。\n\n20級：攻擊一般怪物時傷害10%增加\n40級：無視怪物防禦率增加20%",
-                            "skill_level": 60,
-                            "skill_effect": "死亡標記的最終傷害增加120%",
-                            "skill_icon": "https://open.api.nexon.com/static/maplestorytw/skill/icon/KBPCLHKAKB",
                             "skill_effect_next": null
                         },
                         {
@@ -1227,11 +1163,35 @@
                             "skill_effect_next": null
                         },
                         {
+                            "skill_name": "死亡標記強化",
+                            "skill_description": "[等級上限 : 60]\r\n強化死亡標記。\n\n20級：攻擊一般怪物時傷害10%增加\n40級：無視怪物防禦率增加20%",
+                            "skill_level": 60,
+                            "skill_effect": "死亡標記的最終傷害增加120%",
+                            "skill_icon": "https://open.api.nexon.com/static/maplestorytw/skill/icon/KBPCLHKAKB",
+                            "skill_effect_next": null
+                        },
+                        {
+                            "skill_name": "踐踏強化",
+                            "skill_description": "[等級上限 : 60]\r\n強化踐踏。\n\n20級：最大可攻擊對象+1\n40級：無視怪物防禦率增加20%",
+                            "skill_level": 60,
+                            "skill_effect": "踐踏的最終傷害增加120%",
+                            "skill_icon": "https://open.api.nexon.com/static/maplestorytw/skill/icon/KBPCLHKAJI",
+                            "skill_effect_next": null
+                        },
+                        {
                             "skill_name": "狂風強化",
                             "skill_description": "[等級上限 : 60]\r\n強化狂風。\n\n20級：最大可攻擊對象+1\n40級：無視怪物防禦率增加20%",
                             "skill_level": 60,
                             "skill_effect": "狂風的最終傷害增加120%",
                             "skill_icon": "https://open.api.nexon.com/static/maplestorytw/skill/icon/KBPCLHKAKD",
+                            "skill_effect_next": null
+                        },
+                        {
+                            "skill_name": "魔力爆裂強化",
+                            "skill_description": "[等級上限 : 60]\r\n強化魔力爆裂。\n\n20級：最大可攻擊對象+1\n40級：無視怪物防禦率增加20%",
+                            "skill_level": 60,
+                            "skill_effect": "魔力爆裂的最終傷害增加120%",
+                            "skill_icon": "https://open.api.nexon.com/static/maplestorytw/skill/icon/KBPCLHKAJE",
                             "skill_effect_next": null
                         },
                         {
@@ -1410,7 +1370,7 @@
                     ]
                 }
             ],
-            "timestamp": "2026-09-12T10:00:15"
+            "timestamp": "2026-09-13T09:54:38"
         },
         {
             "type": "block",
@@ -2001,9 +1961,9 @@
                         "potential_option_grade": "傳說",
                         "additional_potential_option_grade": null,
                         "potential_option_flag": "false",
-                        "potential_option_1": "MaxHP +300",
-                        "potential_option_2": "被打擊後無敵時間 +2秒",
-                        "potential_option_3": "被擊中時有5% 機率無視 20% 傷害",
+                        "potential_option_1": "DEX +13%",
+                        "potential_option_2": "DEX +16",
+                        "potential_option_3": "MaxMP +10%",
                         "additional_potential_option_flag": "false",
                         "additional_potential_option_1": null,
                         "additional_potential_option_2": null,
@@ -5699,9 +5659,9 @@
                         "potential_option_grade": "傳說",
                         "additional_potential_option_grade": null,
                         "potential_option_flag": "false",
-                        "potential_option_1": "MaxHP +300",
-                        "potential_option_2": "被打擊後無敵時間 +2秒",
-                        "potential_option_3": "被擊中時有5% 機率無視 20% 傷害",
+                        "potential_option_1": "DEX +13%",
+                        "potential_option_2": "DEX +16",
+                        "potential_option_3": "MaxMP +10%",
                         "additional_potential_option_flag": "false",
                         "additional_potential_option_1": null,
                         "additional_potential_option_2": null,
@@ -9001,9 +8961,9 @@
                         "potential_option_grade": "傳說",
                         "additional_potential_option_grade": null,
                         "potential_option_flag": "false",
-                        "potential_option_1": "MaxHP +300",
-                        "potential_option_2": "被打擊後無敵時間 +2秒",
-                        "potential_option_3": "被擊中時有5% 機率無視 20% 傷害",
+                        "potential_option_1": "DEX +13%",
+                        "potential_option_2": "DEX +16",
+                        "potential_option_3": "MaxMP +10%",
                         "additional_potential_option_flag": "false",
                         "additional_potential_option_1": null,
                         "additional_potential_option_2": null,
@@ -12039,9 +11999,9 @@
                         "potential_option_grade": "傳說",
                         "additional_potential_option_grade": null,
                         "potential_option_flag": "false",
-                        "potential_option_1": "MaxHP +300",
-                        "potential_option_2": "被打擊後無敵時間 +2秒",
-                        "potential_option_3": "被擊中時有5% 機率無視 20% 傷害",
+                        "potential_option_1": "DEX +13%",
+                        "potential_option_2": "DEX +16",
+                        "potential_option_3": "MaxMP +10%",
                         "additional_potential_option_flag": "false",
                         "additional_potential_option_1": null,
                         "additional_potential_option_2": null,
@@ -14650,7 +14610,7 @@
                 "dragon_equipment": [],
                 "mechanic_equipment": []
             },
-            "timestamp": "2026-09-12T10:00:16"
+            "timestamp": "2026-09-13T09:54:39"
         },
         {
             "type": "block",
@@ -14713,7 +14673,7 @@
                 "android_preset_2": null,
                 "android_preset_3": null
             },
-            "timestamp": "2026-09-12T10:00:16"
+            "timestamp": "2026-09-13T09:54:39"
         },
         {
             "type": "block",
@@ -15107,7 +15067,7 @@
                     "skill_icon": "https://open.api.nexon.com/static/maplestorytw/skill/icon/KEKCLFODIB"
                 }
             },
-            "timestamp": "2026-09-12T10:00:17"
+            "timestamp": "2026-09-13T09:54:40"
         },
         {
             "type": "character_done",
