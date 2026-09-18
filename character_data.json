@@ -1,5 +1,5 @@
 {
-    "fetch_time": "2026-09-17 02:15:30",
+    "fetch_time": "2026-09-18 02:01:47",
     "events": [
         {
             "type": "character_start",
@@ -26,7 +26,7 @@
                 "access_flag": "true",
                 "liberation_quest_clear": "0"
             },
-            "timestamp": "2026-09-17T10:15:29"
+            "timestamp": "2026-09-18T10:01:45"
         },
         {
             "type": "block",
@@ -215,7 +215,7 @@
                 ],
                 "remain_ap": 0
             },
-            "timestamp": "2026-09-16T10:11:47"
+            "timestamp": "2026-09-17T10:15:30"
         },
         {
             "type": "block",
@@ -346,7 +346,7 @@
                     }
                 ]
             },
-            "timestamp": "2026-09-16T10:11:47"
+            "timestamp": "2026-09-17T10:15:31"
         },
         {
             "type": "block",
@@ -367,7 +367,7 @@
                     }
                 ]
             },
-            "timestamp": "2026-09-16T10:11:47"
+            "timestamp": "2026-09-17T10:15:31"
         },
         {
             "type": "block",
@@ -382,7 +382,7 @@
                 "handicraft_level": 10,
                 "charm_level": 34
             },
-            "timestamp": "2026-09-16T10:11:48"
+            "timestamp": "2026-09-17T10:15:32"
         },
         {
             "type": "block",
@@ -471,7 +471,7 @@
                     ]
                 }
             },
-            "timestamp": "2026-09-16T10:11:48"
+            "timestamp": "2026-09-17T10:15:32"
         },
         {
             "type": "block",
@@ -567,7 +567,7 @@
                             "skill_name": "特別課程",
                             "skill_description": "[等級上限 : 1]\r\n這是在楓之谷學院進行中的武公與艾畢奈亞的課程。",
                             "skill_level": 1,
-                            "skill_effect": "增加攻擊BOSS怪物時傷害 20%\r\n無視怪物防禦率增加10%\r\n從怪物公園退場時獲得的經驗值增加20%",
+                            "skill_effect": "增加攻擊BOSS怪物時傷害 15%\r\n無視怪物防禦率增加 10%\r\n從怪物公園退場時獲得的經驗值增加20%",
                             "skill_icon": "https://open.api.nexon.com/static/maplestorytw/skill/icon/KFHCLHNJFD",
                             "skill_effect_next": null
                         }
@@ -1362,7 +1362,7 @@
                     ]
                 }
             ],
-            "timestamp": "2026-09-16T10:11:52"
+            "timestamp": "2026-09-17T10:15:36"
         },
         {
             "type": "block",
@@ -14602,7 +14602,7 @@
                 "dragon_equipment": [],
                 "mechanic_equipment": []
             },
-            "timestamp": "2026-09-16T10:11:52"
+            "timestamp": "2026-09-17T10:15:36"
         },
         {
             "type": "block",
@@ -14665,7 +14665,7 @@
                 "android_preset_2": null,
                 "android_preset_3": null
             },
-            "timestamp": "2026-09-16T10:11:52"
+            "timestamp": "2026-09-17T10:15:37"
         },
         {
             "type": "block",
@@ -15059,7 +15059,7 @@
                     "skill_icon": "https://open.api.nexon.com/static/maplestorytw/skill/icon/KEKCLFODIB"
                 }
             },
-            "timestamp": "2026-09-16T10:11:53"
+            "timestamp": "2026-09-17T10:15:37"
         },
         {
             "type": "character_done",
