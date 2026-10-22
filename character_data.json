@@ -1,5 +1,5 @@
 {
-    "fetch_time": "2026-10-21 02:24:19",
+    "fetch_time": "2026-10-22 02:19:32",
     "events": [
         {
             "type": "character_start",
@@ -26,7 +26,7 @@
                 "access_flag": "false",
                 "liberation_quest_clear": "0"
             },
-            "timestamp": "2026-10-21T10:24:18"
+            "timestamp": "2026-10-22T10:19:31"
         },
         {
             "type": "block",
@@ -215,7 +215,7 @@
                 ],
                 "remain_ap": 0
             },
-            "timestamp": "2026-10-20T10:30:17"
+            "timestamp": "2026-10-21T10:24:19"
         },
         {
             "type": "block",
@@ -346,7 +346,7 @@
                     }
                 ]
             },
-            "timestamp": "2026-10-20T10:30:18"
+            "timestamp": "2026-10-21T10:24:19"
         },
         {
             "type": "block",
@@ -367,7 +367,7 @@
                     }
                 ]
             },
-            "timestamp": "2026-10-20T10:30:18"
+            "timestamp": "2026-10-21T10:24:20"
         },
         {
             "type": "block",
@@ -382,7 +382,7 @@
                 "handicraft_level": 10,
                 "charm_level": 34
             },
-            "timestamp": "2026-10-20T10:30:19"
+            "timestamp": "2026-10-21T10:24:20"
         },
         {
             "type": "block",
@@ -471,7 +471,7 @@
                     ]
                 }
             },
-            "timestamp": "2026-10-20T10:30:19"
+            "timestamp": "2026-10-21T10:24:20"
         },
         {
             "type": "block",
@@ -567,7 +567,7 @@
                             "skill_name": "特別課程",
                             "skill_description": "[等級上限 : 1]\r\n這是在楓之谷學院進行中的武公與艾畢奈亞的課程。",
                             "skill_level": 1,
-                            "skill_effect": "增加攻擊BOSS怪物時傷害 15%\r\n無視怪物防禦率增加 10%\r\n從怪物公園退場時獲得的經驗值增加20%",
+                            "skill_effect": "增加攻擊BOSS怪物時傷害 15%\r\n無視怪物防禦率增加 10%\r\n從怪物公園退場時獲得的經驗值增加 20%",
                             "skill_icon": "https://open.api.nexon.com/static/maplestorytw/skill/icon/KFHCLHNJFD",
                             "skill_effect_next": null
                         }
@@ -1004,7 +1004,7 @@
                         },
                         {
                             "skill_name": "艾爾達斯的降臨",
-                            "skill_description": "[等級上限 : 30]\r\n釋放濃縮的艾爾達攻擊周圍敵人。\n與方向鍵下同時使用時可召喚純淨艾爾達匯聚的物件艾爾達噴泉。\n使用自訂指令時可不輸入方向鍵僅以技能鍵召喚艾爾達噴泉。\n套用影分身、替身術、壓制砲擊、沉月、雙重力量、暗影侍從、祝雷、藍血、虛擬投影時，攻擊次數增加效果將改為相同效果的最終傷害增加。\n指令開關：滑鼠右鍵",
+                            "skill_description": "[等級上限 : 30]\r\n釋放濃縮的艾爾達攻擊周圍敵人。\n與方向鍵下同時使用時可召喚純淨艾爾達匯聚的物件艾爾達斯噴泉。\n使用自訂指令時可不輸入方向鍵僅以技能鍵召喚艾爾達噴泉。\n套用影分身、替身術、壓制砲擊、沉月、雙重力量、暗影侍從、祝雷、藍血、虛擬投影時，攻擊次數增加效果將改為相同效果的最終傷害增加。\n指令開關：滑鼠右鍵",
                             "skill_level": 18,
                             "skill_effect": "消耗HP 100\n艾爾達斯降臨\n最多朝15名敵人以0%的傷害攻擊0次，攻擊後吸收艾爾達，每攻擊一名敵人艾爾達斯降臨的再使用冷卻時間減少2秒\n冷卻時間40秒\n艾爾達斯噴?召喚物件持續60秒，每隔一定時間最多攻擊10名敵人，以0%的傷害攻擊0次\n重新使用技能可重新召喚物件\n冷卻時間 60秒\n艾爾達斯降臨與艾爾達斯噴泉共享再使用冷卻時間",
                             "skill_icon": "https://open.api.nexon.com/static/maplestorytw/skill/icon/KBPCLHPBPG",
@@ -1362,7 +1362,7 @@
                     ]
                 }
             ],
-            "timestamp": "2026-10-20T10:30:23"
+            "timestamp": "2026-10-21T10:24:24"
         },
         {
             "type": "block",
@@ -14602,7 +14602,7 @@
                 "dragon_equipment": [],
                 "mechanic_equipment": []
             },
-            "timestamp": "2026-10-20T10:30:23"
+            "timestamp": "2026-10-21T10:24:24"
         },
         {
             "type": "block",
@@ -14665,7 +14665,7 @@
                 "android_preset_2": null,
                 "android_preset_3": null
             },
-            "timestamp": "2026-10-20T10:30:24"
+            "timestamp": "2026-10-21T10:24:25"
         },
         {
             "type": "block",
@@ -15059,7 +15059,7 @@
                     "skill_icon": "https://open.api.nexon.com/static/maplestorytw/skill/icon/KEKCLFODIB"
                 }
             },
-            "timestamp": "2026-10-20T10:30:24"
+            "timestamp": "2026-10-21T10:24:25"
         },
         {
             "type": "character_done",
