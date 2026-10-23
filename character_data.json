@@ -1,5 +1,5 @@
 {
-    "fetch_time": "2026-10-22 02:19:32",
+    "fetch_time": "2026-10-23 02:24:48",
     "events": [
         {
             "type": "character_start",
@@ -26,7 +26,7 @@
                 "access_flag": "false",
                 "liberation_quest_clear": "0"
             },
-            "timestamp": "2026-10-22T10:19:31"
+            "timestamp": "2026-10-23T10:24:46"
         },
         {
             "type": "block",
@@ -213,9 +213,10 @@
                         "stat_value": "12"
                     }
                 ],
-                "remain_ap": 0
+                "remain_ap": 0,
+                "mentorship_stat": []
             },
-            "timestamp": "2026-10-21T10:24:19"
+            "timestamp": "2026-10-22T10:19:32"
         },
         {
             "type": "block",
@@ -346,7 +347,7 @@
                     }
                 ]
             },
-            "timestamp": "2026-10-21T10:24:19"
+            "timestamp": "2026-10-22T10:19:33"
         },
         {
             "type": "block",
@@ -367,7 +368,7 @@
                     }
                 ]
             },
-            "timestamp": "2026-10-21T10:24:20"
+            "timestamp": "2026-10-22T10:19:33"
         },
         {
             "type": "block",
@@ -382,7 +383,7 @@
                 "handicraft_level": 10,
                 "charm_level": 34
             },
-            "timestamp": "2026-10-21T10:24:20"
+            "timestamp": "2026-10-22T10:19:33"
         },
         {
             "type": "block",
@@ -471,7 +472,7 @@
                     ]
                 }
             },
-            "timestamp": "2026-10-21T10:24:20"
+            "timestamp": "2026-10-22T10:19:34"
         },
         {
             "type": "block",
@@ -1362,7 +1363,7 @@
                     ]
                 }
             ],
-            "timestamp": "2026-10-21T10:24:24"
+            "timestamp": "2026-10-22T10:19:38"
         },
         {
             "type": "block",
@@ -14594,15 +14595,15 @@
                 "medal_shape": {
                     "medal_shape_name": "挑戰者伺服器S1翡翠",
                     "medal_shape_icon": "https://open.api.nexon.com/static/maplestorytw/item/icon/KEOGIDPA",
-                    "medal_shape_description": "",
+                    "medal_shape_description": null,
                     "medal_shape_changed_name": "挑戰者伺服器S1翡翠",
                     "medal_shape_changed_icon": "https://open.api.nexon.com/static/maplestorytw/item/icon/KEOGIDPA",
-                    "medal_shape_changed_description": ""
+                    "medal_shape_changed_description": null
                 },
                 "dragon_equipment": [],
                 "mechanic_equipment": []
             },
-            "timestamp": "2026-10-21T10:24:24"
+            "timestamp": "2026-10-22T10:19:39"
         },
         {
             "type": "block",
@@ -14665,7 +14666,7 @@
                 "android_preset_2": null,
                 "android_preset_3": null
             },
-            "timestamp": "2026-10-21T10:24:25"
+            "timestamp": "2026-10-22T10:19:39"
         },
         {
             "type": "block",
@@ -15059,7 +15060,7 @@
                     "skill_icon": "https://open.api.nexon.com/static/maplestorytw/skill/icon/KEKCLFODIB"
                 }
             },
-            "timestamp": "2026-10-21T10:24:25"
+            "timestamp": "2026-10-22T10:19:40"
         },
         {
             "type": "character_done",
