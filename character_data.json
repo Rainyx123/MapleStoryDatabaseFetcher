@@ -1,5 +1,5 @@
 {
-    "fetch_time": "2026-11-13 03:58:26",
+    "fetch_time": "2026-11-14 03:56:23",
     "events": [
         {
             "type": "character_start",
@@ -26,7 +26,7 @@
                 "access_flag": "true",
                 "liberation_quest_clear": "0"
             },
-            "timestamp": "2026-11-13T11:58:25"
+            "timestamp": "2026-11-14T11:56:22"
         },
         {
             "type": "block",
@@ -38,19 +38,19 @@
                 "final_stat": [
                     {
                         "stat_name": "最低屬性攻擊力",
-                        "stat_value": "11702524"
+                        "stat_value": "9918625"
                     },
                     {
                         "stat_name": "最高屬性攻擊力",
-                        "stat_value": "13002802"
+                        "stat_value": "11020692"
                     },
                     {
                         "stat_name": "傷害",
-                        "stat_value": "138.00"
+                        "stat_value": "108.00"
                     },
                     {
                         "stat_name": "BOSS怪物傷害",
-                        "stat_value": "407.00"
+                        "stat_value": "389.00"
                     },
                     {
                         "stat_name": "最終傷害",
@@ -58,15 +58,15 @@
                     },
                     {
                         "stat_name": "無視防禦率",
-                        "stat_value": "94.06"
+                        "stat_value": "93.47"
                     },
                     {
                         "stat_name": "爆擊機率",
-                        "stat_value": "109"
+                        "stat_value": "118"
                     },
                     {
                         "stat_name": "爆擊傷害",
-                        "stat_value": "118.00"
+                        "stat_value": "90.00"
                     },
                     {
                         "stat_name": "狀態異常耐性",
@@ -78,7 +78,7 @@
                     },
                     {
                         "stat_name": "防禦力",
-                        "stat_value": "44892"
+                        "stat_value": "44666"
                     },
                     {
                         "stat_name": "移動速度",
@@ -102,15 +102,15 @@
                     },
                     {
                         "stat_name": "STR",
-                        "stat_value": "24241"
+                        "stat_value": "24061"
                     },
                     {
                         "stat_name": "DEX",
-                        "stat_value": "2792"
+                        "stat_value": "2902"
                     },
                     {
                         "stat_name": "INT",
-                        "stat_value": "1491"
+                        "stat_value": "1591"
                     },
                     {
                         "stat_name": "LUK",
@@ -158,7 +158,7 @@
                     },
                     {
                         "stat_name": "Buff持續時間",
-                        "stat_value": "70"
+                        "stat_value": "72"
                     },
                     {
                         "stat_name": "攻擊速度",
@@ -194,19 +194,19 @@
                     },
                     {
                         "stat_name": "獲得額外經驗值",
-                        "stat_value": "35.00"
+                        "stat_value": "52.00"
                     },
                     {
                         "stat_name": "攻擊力",
-                        "stat_value": "2518"
+                        "stat_value": "2457"
                     },
                     {
                         "stat_name": "魔法攻擊力",
-                        "stat_value": "712"
+                        "stat_value": "687"
                     },
                     {
                         "stat_name": "戰鬥力",
-                        "stat_value": "17771467"
+                        "stat_value": "17170736"
                     },
                     {
                         "stat_name": "召喚獸持續時間增加",
@@ -214,9 +214,46 @@
                     }
                 ],
                 "remain_ap": 0,
-                "mentorship_stat": []
+                "mentorship_stat": [
+                    {
+                        "stat_name": "師徒等級",
+                        "stat_value": "5"
+                    },
+                    {
+                        "stat_name": "師徒累積內功",
+                        "stat_value": "10900"
+                    },
+                    {
+                        "stat_name": "攻擊力",
+                        "stat_value": "10"
+                    },
+                    {
+                        "stat_name": "魔法攻擊力",
+                        "stat_value": "10"
+                    },
+                    {
+                        "stat_name": "獲得額外經驗值",
+                        "stat_value": "15.00"
+                    },
+                    {
+                        "stat_name": "BOSS怪物傷害",
+                        "stat_value": "10.00"
+                    },
+                    {
+                        "stat_name": "怪物公園經驗值",
+                        "stat_value": "20.00"
+                    },
+                    {
+                        "stat_name": "靈魂艾爾達碎片掉落率",
+                        "stat_value": "20.00"
+                    },
+                    {
+                        "stat_name": "祕法符文強化費用優惠",
+                        "stat_value": "100.00"
+                    }
+                ]
             },
-            "timestamp": "2026-11-12T02:19:07"
+            "timestamp": "2026-11-13T11:58:27"
         },
         {
             "type": "block",
@@ -347,7 +384,7 @@
                     }
                 ]
             },
-            "timestamp": "2026-11-12T02:19:08"
+            "timestamp": "2026-11-13T11:58:27"
         },
         {
             "type": "block",
@@ -368,7 +405,7 @@
                     }
                 ]
             },
-            "timestamp": "2026-11-12T02:19:08"
+            "timestamp": "2026-11-13T11:58:28"
         },
         {
             "type": "block",
@@ -383,7 +420,7 @@
                 "handicraft_level": 10,
                 "charm_level": 34
             },
-            "timestamp": "2026-11-12T02:19:08"
+            "timestamp": "2026-11-13T11:58:28"
         },
         {
             "type": "block",
@@ -472,7 +509,7 @@
                     ]
                 }
             },
-            "timestamp": "2026-11-12T02:19:09"
+            "timestamp": "2026-11-13T11:58:28"
         },
         {
             "type": "block",
@@ -562,14 +599,6 @@
                             "skill_level": 1,
                             "skill_effect": "冷卻時間5秒",
                             "skill_icon": "https://open.api.nexon.com/static/maplestorytw/skill/icon/KFHCLHMCOD",
-                            "skill_effect_next": null
-                        },
-                        {
-                            "skill_name": "特別課程",
-                            "skill_description": "[等級上限 : 1]\r\n這是在楓之谷學院進行中的武公與艾畢奈亞的課程。",
-                            "skill_level": 1,
-                            "skill_effect": "增加攻擊BOSS怪物時傷害 15%\r\n無視怪物防禦率增加 10%\r\n從怪物公園退場時獲得的經驗值增加 20%",
-                            "skill_icon": "https://open.api.nexon.com/static/maplestorytw/skill/icon/KFHCLHNJFD",
                             "skill_effect_next": null
                         }
                     ]
@@ -1363,7 +1392,7 @@
                     ]
                 }
             ],
-            "timestamp": "2026-11-12T02:19:12"
+            "timestamp": "2026-11-13T11:58:32"
         },
         {
             "type": "block",
@@ -14603,7 +14632,7 @@
                 "dragon_equipment": [],
                 "mechanic_equipment": []
             },
-            "timestamp": "2026-11-12T02:19:13"
+            "timestamp": "2026-11-13T11:58:32"
         },
         {
             "type": "block",
@@ -14666,7 +14695,7 @@
                 "android_preset_2": null,
                 "android_preset_3": null
             },
-            "timestamp": "2026-11-12T02:19:13"
+            "timestamp": "2026-11-13T11:58:33"
         },
         {
             "type": "block",
@@ -14759,10 +14788,10 @@
                     {
                         "skill_name": "靈魂契約",
                         "skill_description": "[等級上限 : 3]\r\n透過與愛斯卡達的契約，瞬間極大化傷害。\n靈魂契約可在使用其他技能時施放。",
-                        "skill_level": 2,
-                        "skill_effect": "10秒間傷害增加 45%\n冷卻時間60秒",
+                        "skill_level": 3,
+                        "skill_effect": "10秒間傷害增加 60%\n冷卻時間60秒",
                         "skill_icon": "https://open.api.nexon.com/static/maplestorytw/skill/icon/KFHCLHPAJF",
-                        "skill_effect_next": "10秒間傷害增加 60%\n冷卻時間60秒"
+                        "skill_effect_next": null
                     },
                     {
                         "skill_name": "蒼刃傳授",
@@ -15019,8 +15048,8 @@
                     {
                         "skill_name": "靈魂契約",
                         "skill_description": "[等級上限 : 3]\r\n透過與愛斯卡達的契約，瞬間極大化傷害。\n靈魂契約可在使用其他技能時施放。",
-                        "skill_level": 2,
-                        "skill_effect": "10秒間傷害增加 45%\n冷卻時間60秒",
+                        "skill_level": 3,
+                        "skill_effect": "10秒間傷害增加 60%\n冷卻時間60秒",
                         "skill_icon": "https://open.api.nexon.com/static/maplestorytw/skill/icon/KFHCLHPAJF"
                     },
                     {
@@ -15060,7 +15089,7 @@
                     "skill_icon": "https://open.api.nexon.com/static/maplestorytw/skill/icon/KEKCLFODIB"
                 }
             },
-            "timestamp": "2026-11-12T02:19:14"
+            "timestamp": "2026-11-13T11:58:33"
         },
         {
             "type": "character_done",
