@@ -1,5 +1,5 @@
 {
-    "fetch_time": "2026-11-18 05:00:12",
+    "fetch_time": "2026-11-19 04:55:23",
     "events": [
         {
             "type": "character_start",
@@ -23,10 +23,10 @@
                 "character_guild_name": "Rainy",
                 "character_image": "https://open.api.nexon.com/static/maplestorytw/character/look/GOOKFPNPPDDJCHJGMPEPBIPALMFDFJMGGCPGLBGBPNBFEBJJNNOPOOFHGBOEMBCKHOHOCFECJPCDNPDGNLMNFCLLJOHEGDHLKGBNFCEBIMOJMNONOHHMFHJKAEOOCJEJNECKPKCDLLECBJMFCCHPBKHOELGHNKCMGINLLPHEAFLHAJJBFDECMHAIDDPJDNDMLCJMADMHDCNKJDBKCDAMDGPMLGELCKACPKLMIDELDNPCKMKMNLLDJNKHJANKDACOOCBGAHJHCABHANIFGJGCEAAFKFEJONKGDFHIBGJIMBLOPNCBFOCHNPNHLDIKJBDBEMODOLILJGLJPFLOPJJFDMPFEIHHKNHJMFDCBEKNKJHMNLHBMPHLLCBGMOLIHINFFMFPCPFCJCCGNIJBBCKHEMDFBODGPMFEADNLLLHGFHAGAKFIMBKBHILBONLANHILBPKOEHHCOBNEHOHJFNECIEAEGILBENKGBKKKNCFMJKDBHNDAOJHENPPCNNOHGDEPOCOFIBAINKPLHICLDKBEMOIINKHMGLIJMEABALJCFHIEMPFHMNGIKAHJJIDHPCMOFDMHOPJCGMFHKPJGBBHGPELBCJHKKBFCCNIPGLDPCIFFKEJMPKMKJCFNPLPGAEFNFDOBJCHEOIACCFJLHHLOCJIICIDMGNOOOIAEIJEDOGDFLNFNEAMEKIMIFKKIKJDOBFEEFILKPMFAKCMJHBCGBIILAGHPEFFJIJJLAJKJNBBJIEDNCFHAIFOCMJFJCMDPGEPGFIOFKFMJMEBCOOALNMLHLGAGPGCBJLDGGJPEMMFLJHOPIFGLOICJPLCJKDGFMDLBFHEJHNILAIKJEDHNFLGIIAHFJPIEMDKJCODIOPEJAEELHLHENPLKGCDONOMOEOHFPFOKEBOKGFFKLDCJOMGDFALDLJFHGDEIIFAABLONLKEKAGNBBHFMIMGMPLIMKDHEGDNMACECOCNCDNNOPAFPAFPDMGLGJDDPALNBHJGMLKDLPCOPMLPCHEGGLGHP",
                 "character_date_create": "2024-05-18T00:00+08:00",
-                "access_flag": "true",
+                "access_flag": "false",
                 "liberation_quest_clear": "0"
             },
-            "timestamp": "2026-11-18T13:00:10"
+            "timestamp": "2026-11-19T12:55:20"
         },
         {
             "type": "block",
@@ -253,7 +253,7 @@
                     }
                 ]
             },
-            "timestamp": "2026-11-17T13:36:57"
+            "timestamp": "2026-11-18T13:00:12"
         },
         {
             "type": "block",
@@ -384,7 +384,7 @@
                     }
                 ]
             },
-            "timestamp": "2026-11-17T13:36:57"
+            "timestamp": "2026-11-18T13:00:13"
         },
         {
             "type": "block",
@@ -405,7 +405,7 @@
                     }
                 ]
             },
-            "timestamp": "2026-11-17T13:36:57"
+            "timestamp": "2026-11-18T13:00:13"
         },
         {
             "type": "block",
@@ -420,7 +420,7 @@
                 "handicraft_level": 10,
                 "charm_level": 34
             },
-            "timestamp": "2026-11-17T13:36:58"
+            "timestamp": "2026-11-18T13:00:14"
         },
         {
             "type": "block",
@@ -509,7 +509,7 @@
                     ]
                 }
             },
-            "timestamp": "2026-11-17T13:36:58"
+            "timestamp": "2026-11-18T13:00:14"
         },
         {
             "type": "block",
@@ -1392,7 +1392,7 @@
                     ]
                 }
             ],
-            "timestamp": "2026-11-17T13:37:02"
+            "timestamp": "2026-11-18T13:00:18"
         },
         {
             "type": "block",
@@ -14632,7 +14632,7 @@
                 "dragon_equipment": [],
                 "mechanic_equipment": []
             },
-            "timestamp": "2026-11-17T13:37:03"
+            "timestamp": "2026-11-18T13:00:19"
         },
         {
             "type": "block",
@@ -14695,7 +14695,7 @@
                 "android_preset_2": null,
                 "android_preset_3": null
             },
-            "timestamp": "2026-11-17T13:37:03"
+            "timestamp": "2026-11-18T13:00:20"
         },
         {
             "type": "block",
@@ -15089,7 +15089,7 @@
                     "skill_icon": "https://open.api.nexon.com/static/maplestorytw/skill/icon/KEKCLFODIB"
                 }
             },
-            "timestamp": "2026-11-17T13:37:03"
+            "timestamp": "2026-11-18T13:00:20"
         },
         {
             "type": "character_done",
