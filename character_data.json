@@ -1,5 +1,5 @@
 {
-    "fetch_time": "2026-11-23 04:35:59",
+    "fetch_time": "2026-11-24 07:29:27",
     "events": [
         {
             "type": "character_start",
@@ -26,7 +26,7 @@
                 "access_flag": "true",
                 "liberation_quest_clear": "0"
             },
-            "timestamp": "2026-11-23T12:35:58"
+            "timestamp": "2026-11-24T15:29:26"
         },
         {
             "type": "block",
@@ -38,35 +38,35 @@
                 "final_stat": [
                     {
                         "stat_name": "最低屬性攻擊力",
-                        "stat_value": "9918625"
+                        "stat_value": "11714753"
                     },
                     {
                         "stat_name": "最高屬性攻擊力",
-                        "stat_value": "11020692"
+                        "stat_value": "12873353"
                     },
                     {
                         "stat_name": "傷害",
-                        "stat_value": "108.00"
+                        "stat_value": "139.00"
                     },
                     {
                         "stat_name": "BOSS怪物傷害",
-                        "stat_value": "389.00"
+                        "stat_value": "403.00"
                     },
                     {
                         "stat_name": "最終傷害",
-                        "stat_value": "67.31"
+                        "stat_value": "68.60"
                     },
                     {
                         "stat_name": "無視防禦率",
-                        "stat_value": "93.47"
+                        "stat_value": "93.55"
                     },
                     {
                         "stat_name": "爆擊機率",
-                        "stat_value": "118"
+                        "stat_value": "106"
                     },
                     {
                         "stat_name": "爆擊傷害",
-                        "stat_value": "90.00"
+                        "stat_value": "128.00"
                     },
                     {
                         "stat_name": "狀態異常耐性",
@@ -78,7 +78,7 @@
                     },
                     {
                         "stat_name": "防禦力",
-                        "stat_value": "44666"
+                        "stat_value": "45010"
                     },
                     {
                         "stat_name": "移動速度",
@@ -102,11 +102,11 @@
                     },
                     {
                         "stat_name": "STR",
-                        "stat_value": "24061"
+                        "stat_value": "24277"
                     },
                     {
                         "stat_name": "DEX",
-                        "stat_value": "2902"
+                        "stat_value": "2792"
                     },
                     {
                         "stat_name": "INT",
@@ -114,7 +114,7 @@
                     },
                     {
                         "stat_name": "LUK",
-                        "stat_value": "1526"
+                        "stat_value": "1686"
                     },
                     {
                         "stat_name": "HP",
@@ -150,19 +150,19 @@
                     },
                     {
                         "stat_name": "道具掉落率",
-                        "stat_value": "32"
+                        "stat_value": "52"
                     },
                     {
                         "stat_name": "楓幣獲得量",
-                        "stat_value": "16"
+                        "stat_value": "12"
                     },
                     {
                         "stat_name": "Buff持續時間",
-                        "stat_value": "72"
+                        "stat_value": "96"
                     },
                     {
                         "stat_name": "攻擊速度",
-                        "stat_value": "7"
+                        "stat_value": "8"
                     },
                     {
                         "stat_name": "一般怪物傷害",
@@ -190,15 +190,15 @@
                     },
                     {
                         "stat_name": "武器熟練度",
-                        "stat_value": "90"
+                        "stat_value": "91"
                     },
                     {
                         "stat_name": "獲得額外經驗值",
-                        "stat_value": "52.00"
+                        "stat_value": "71.00"
                     },
                     {
                         "stat_name": "攻擊力",
-                        "stat_value": "2457"
+                        "stat_value": "2460"
                     },
                     {
                         "stat_name": "魔法攻擊力",
@@ -206,7 +206,7 @@
                     },
                     {
                         "stat_name": "戰鬥力",
-                        "stat_value": "17170736"
+                        "stat_value": "17280604"
                     },
                     {
                         "stat_name": "召喚獸持續時間增加",
@@ -221,7 +221,7 @@
                     },
                     {
                         "stat_name": "師徒累積內功",
-                        "stat_value": "10900"
+                        "stat_value": "11400"
                     },
                     {
                         "stat_name": "攻擊力",
@@ -253,7 +253,7 @@
                     }
                 ]
             },
-            "timestamp": "2026-11-22T11:55:23"
+            "timestamp": "2026-11-23T12:36:00"
         },
         {
             "type": "block",
@@ -384,7 +384,7 @@
                     }
                 ]
             },
-            "timestamp": "2026-11-22T11:55:24"
+            "timestamp": "2026-11-23T12:36:00"
         },
         {
             "type": "block",
@@ -405,7 +405,7 @@
                     }
                 ]
             },
-            "timestamp": "2026-11-22T11:55:24"
+            "timestamp": "2026-11-23T12:36:01"
         },
         {
             "type": "block",
@@ -420,7 +420,7 @@
                 "handicraft_level": 10,
                 "charm_level": 34
             },
-            "timestamp": "2026-11-22T11:55:24"
+            "timestamp": "2026-11-23T12:36:01"
         },
         {
             "type": "block",
@@ -509,7 +509,7 @@
                     ]
                 }
             },
-            "timestamp": "2026-11-22T11:55:25"
+            "timestamp": "2026-11-23T12:36:01"
         },
         {
             "type": "block",
@@ -852,48 +852,48 @@
                         {
                             "skill_name": "切割",
                             "skill_description": "[等級上限 : 30]\r\n[觸發技能] 形成巨劍截斷前方的敵人。",
-                            "skill_level": 30,
-                            "skill_effect": "消耗MP40，最多對7名敵人以375%傷害攻擊6次",
+                            "skill_level": 31,
+                            "skill_effect": "消耗MP40，最多對7名敵人以378%傷害攻擊6次",
                             "skill_icon": "https://open.api.nexon.com/static/maplestorytw/skill/icon/KEKDKFPBMA",
                             "skill_effect_next": null
                         },
                         {
                             "skill_name": "綻放",
                             "skill_description": "[等級上限 : 30]\r\n讓下達追蹤命令的所有乙太之劍旋轉並且引爆魔力。必須有下達追蹤命令正在追擊敵人的乙太之劍才可使用。\n進行爆裂時，乙太之劍的持續時間不會流失，且無法引爆受到回歸指令而返回的乙太之劍。\n即使攻擊處於反射攻擊狀態的敵人，也不會受到傷害，不受冷卻時間重置效果影響。\r\n所需技能：追蹤 20等級以上",
-                            "skill_level": 30,
-                            "skill_effect": "消耗80 MP，每把乙太之劍將以對最多8名敵人造成650%傷害8次\n當單一敵人被複數綻放命中時，綻放對該敵人的最終傷害減少25%\n攻擊命中時，有50%機率生成乙太結晶\n冷卻時間：20秒",
+                            "skill_level": 31,
+                            "skill_effect": "消耗81 MP，每把乙太之劍將以對最多8名敵人造成656%傷害8次\n當單一敵人被複數綻放命中時，綻放對該敵人的最終傷害減少25%\n攻擊命中時，有50%機率生成乙太結晶\n冷卻時間：20秒",
                             "skill_icon": "https://open.api.nexon.com/static/maplestorytw/skill/icon/KEKDKFPBMD",
                             "skill_effect_next": null
                         },
                         {
                             "skill_name": "死亡標記",
                             "skill_description": "[等級上限 : 20]\r\n以詛咒之劍對敵人烙下死亡標記，藉此削弱其力量，並使其成為乙太之劍、碎片和魔力爆裂的目標。\n若當前有被烙下死亡標記的敵人，欲再次使用技能或對其他敵人烙下死亡標記時，原先存在的死亡標記將消失。\n在所有範圍內的敵人中，死亡標記將優先攻擊最大HP最高的敵人。\r\n所需技能：追蹤 20等級以上",
-                            "skill_level": 20,
-                            "skill_effect": "消耗MP150，對最多1名敵人造成220%傷害10次\n當敵人身上有死亡標記時，追加無視其10%防禦率\n若有敵人位於碎片/魔力爆裂/以追蹤下達命令的乙太之劍/以無限創造的乙太之劍的攻擊範圍內，並且身上帶有死亡標記時，將集中攻擊該名敵人",
+                            "skill_level": 21,
+                            "skill_effect": "消耗MP150，對最多1名敵人造成225%傷害10次\n當敵人身上有死亡標記時，追加無視其10%防禦率\n若有敵人位於碎片/魔力爆裂/以追蹤下達命令的乙太之劍/以無限創造的乙太之劍的攻擊範圍內，並且身上帶有死亡標記時，將集中攻擊該名敵人",
                             "skill_icon": "https://open.api.nexon.com/static/maplestorytw/skill/icon/KEKDKFPBMB",
                             "skill_effect_next": null
                         },
                         {
                             "skill_name": "護堤",
                             "skill_description": "[等級上限 : 20]\r\n讓乙太之劍在身體周圍快速旋轉，抵擋敵人的攻擊減少傷害。不受到冷卻時間初始化的效果的影響。\n護堤施展期間不會被賦予致命性的狀態異常，若在施展護堤當下遭受攻擊，攻擊效果將起不了作用，之後會更加減少攻擊的傷害。使用除了踐踏以外的觸發技能時也能使用。",
-                            "skill_level": 20,
-                            "skill_effect": "消耗MP150，最多可長壓8秒。在長壓過程中，依最大HP的一定比例，減少40%包含造成傷害的攻擊在內的所受傷害\n施放後 1秒內無敵，且若立即受到敵人攻擊，之後持續期間傷害減少量提升至55%。\n技能結束時，每剩餘1秒長壓時間，冷卻時間減少3.5秒\n冷卻時間：60秒",
+                            "skill_level": 21,
+                            "skill_effect": "消耗MP145，最多可長壓8秒。在長壓過程中，依最大HP的一定比例，減少41%包含造成傷害的攻擊在內的所受傷害\n施放後 1秒內無敵，且若立即受到敵人攻擊，之後持續期間傷害減少量提升至56%。\n技能結束時，每剩餘1秒長壓時間，冷卻時間減少3.5秒\n冷卻時間：60秒",
                             "skill_icon": "https://open.api.nexon.com/static/maplestorytw/skill/icon/KEKDKFPBME",
                             "skill_effect_next": null
                         },
                         {
                             "skill_name": "踐踏",
                             "skill_description": "[等級上限 : 20]\r\n[觸發技能] 讓魔力纏繞全身後急速下降。",
-                            "skill_level": 20,
-                            "skill_effect": "消耗MP 45，最多對6名敵方以550%的傷害攻擊6次\n冷卻時間1.50秒",
+                            "skill_level": 21,
+                            "skill_effect": "消耗MP 46，最多對6名敵方以555%的傷害攻擊6次\n冷卻時間1.50秒",
                             "skill_icon": "https://open.api.nexon.com/static/maplestorytw/skill/icon/KEKDKFPBMC",
                             "skill_effect_next": null
                         },
                         {
                             "skill_name": "雷普的勇士",
                             "skill_description": "[等級上限 : 30]\r\n因雷普的潛在力量，自己的所有能力值增加一定比例。使用技能時，將生成雷普的紋樣。",
-                            "skill_level": 30,
-                            "skill_effect": "消耗70MP，生成雷普的紋樣\n[被動效果：直接投入AP的所有能力值增加15%]",
+                            "skill_level": 31,
+                            "skill_effect": "消耗70MP，生成雷普的紋樣\n[被動效果：直接投入AP的所有能力值增加16%]",
                             "skill_icon": "https://open.api.nexon.com/static/maplestorytw/skill/icon/KEKDKFPBMF",
                             "skill_effect_next": null
                         },
@@ -908,32 +908,32 @@
                         {
                             "skill_name": "專家",
                             "skill_description": "[等級上限 : 30]\r\n增加調節器的熟練度、攻擊力、傷害。\r\n所需技能：精通 10等級以上",
-                            "skill_level": 30,
-                            "skill_effect": "增加調節器熟練度70%、30攻擊力、20%傷害",
+                            "skill_level": 31,
+                            "skill_effect": "增加調節器熟練度71%、31攻擊力、20%傷害",
                             "skill_icon": "https://open.api.nexon.com/static/maplestorytw/skill/icon/KEKDKFOBMH",
                             "skill_effect_next": null
                         },
                         {
                             "skill_name": "完美",
                             "skill_description": "[等級上限 : 30]\r\n透過修煉，讓技能的完成度趨於完美。",
-                            "skill_level": 30,
-                            "skill_effect": "碎片的傷害增加10%p\n創造的傷害增加270%p\n穿刺的傷害增加122%p \n魔劍共鳴的傷害增加134%p\n追蹤的傷害增加120%p\n回歸的傷害增加300%p\n劍域的傷害增加300%p",
+                            "skill_level": 31,
+                            "skill_effect": "碎片的傷害增加10%p\n創造的傷害增加273%p\n穿刺的傷害增加125%p \n魔劍共鳴的傷害增加137%p\n追蹤的傷害增加123%p\n回歸的傷害增加303%p\n劍域的傷害增加305%p",
                             "skill_icon": "https://open.api.nexon.com/static/maplestorytw/skill/icon/KEKDKFOBMI",
                             "skill_effect_next": null
                         },
                         {
                             "skill_name": "拆毀",
                             "skill_description": "[等級上限 : 20]\r\n學習能破壞敵人防禦的強大攻擊。",
-                            "skill_level": 20,
-                            "skill_effect": "最終傷害增加30%、無視防禦率增加20%",
+                            "skill_level": 21,
+                            "skill_effect": "最終傷害增加31%、無視防禦率增加21%",
                             "skill_icon": "https://open.api.nexon.com/static/maplestorytw/skill/icon/KEKDKFOBMJ",
                             "skill_effect_next": null
                         },
                         {
                             "skill_name": "登峰造極",
                             "skill_description": "[等級上限 : 20]\r\n透過持續不斷的戰鬥達到高手的境界。",
-                            "skill_level": 20,
-                            "skill_effect": "增加30攻擊力、13%傷害、20%爆擊機率、15%最大HP",
+                            "skill_level": 21,
+                            "skill_effect": "增加31攻擊力、14%傷害、21%爆擊機率、15%最大HP",
                             "skill_icon": "https://open.api.nexon.com/static/maplestorytw/skill/icon/KEKDKFOBNA",
                             "skill_effect_next": null
                         }
@@ -1392,7 +1392,7 @@
                     ]
                 }
             ],
-            "timestamp": "2026-11-22T11:55:28"
+            "timestamp": "2026-11-23T12:36:06"
         },
         {
             "type": "block",
@@ -14632,7 +14632,7 @@
                 "dragon_equipment": [],
                 "mechanic_equipment": []
             },
-            "timestamp": "2026-11-22T11:55:29"
+            "timestamp": "2026-11-23T12:36:06"
         },
         {
             "type": "block",
@@ -14695,7 +14695,7 @@
                 "android_preset_2": null,
                 "android_preset_3": null
             },
-            "timestamp": "2026-11-22T11:55:29"
+            "timestamp": "2026-11-23T12:36:07"
         },
         {
             "type": "block",
@@ -15089,7 +15089,7 @@
                     "skill_icon": "https://open.api.nexon.com/static/maplestorytw/skill/icon/KEKCLFODIB"
                 }
             },
-            "timestamp": "2026-11-22T11:55:29"
+            "timestamp": "2026-11-23T12:36:07"
         },
         {
             "type": "character_done",
