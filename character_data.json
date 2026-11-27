@@ -1,5 +1,5 @@
 {
-    "fetch_time": "2026-11-26 05:51:02",
+    "fetch_time": "2026-11-27 05:44:37",
     "events": [
         {
             "type": "character_start",
@@ -26,7 +26,7 @@
                 "access_flag": "true",
                 "liberation_quest_clear": "0"
             },
-            "timestamp": "2026-11-26T13:51:01"
+            "timestamp": "2026-11-27T13:44:36"
         },
         {
             "type": "block",
@@ -253,7 +253,7 @@
                     }
                 ]
             },
-            "timestamp": "2026-11-25T13:58:07"
+            "timestamp": "2026-11-26T13:51:02"
         },
         {
             "type": "block",
@@ -384,7 +384,7 @@
                     }
                 ]
             },
-            "timestamp": "2026-11-25T13:58:07"
+            "timestamp": "2026-11-26T13:51:02"
         },
         {
             "type": "block",
@@ -405,7 +405,7 @@
                     }
                 ]
             },
-            "timestamp": "2026-11-25T13:58:07"
+            "timestamp": "2026-11-26T13:51:03"
         },
         {
             "type": "block",
@@ -420,7 +420,7 @@
                 "handicraft_level": 10,
                 "charm_level": 34
             },
-            "timestamp": "2026-11-25T13:58:08"
+            "timestamp": "2026-11-26T13:51:03"
         },
         {
             "type": "block",
@@ -509,7 +509,7 @@
                     ]
                 }
             },
-            "timestamp": "2026-11-25T13:58:08"
+            "timestamp": "2026-11-26T13:51:03"
         },
         {
             "type": "block",
@@ -1392,7 +1392,7 @@
                     ]
                 }
             ],
-            "timestamp": "2026-11-25T13:58:12"
+            "timestamp": "2026-11-26T13:51:07"
         },
         {
             "type": "block",
@@ -14632,7 +14632,7 @@
                 "dragon_equipment": [],
                 "mechanic_equipment": []
             },
-            "timestamp": "2026-11-25T13:58:12"
+            "timestamp": "2026-11-26T13:51:08"
         },
         {
             "type": "block",
@@ -14695,7 +14695,7 @@
                 "android_preset_2": null,
                 "android_preset_3": null
             },
-            "timestamp": "2026-11-25T13:58:13"
+            "timestamp": "2026-11-26T13:51:08"
         },
         {
             "type": "block",
@@ -15089,7 +15089,7 @@
                     "skill_icon": "https://open.api.nexon.com/static/maplestorytw/skill/icon/KEKCLFODIB"
                 }
             },
-            "timestamp": "2026-11-25T13:58:13"
+            "timestamp": "2026-11-26T13:51:08"
         },
         {
             "type": "character_done",
